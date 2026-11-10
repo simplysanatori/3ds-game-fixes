@@ -4,7 +4,7 @@ Technical detail moved out of the README: what the bug is, how the patch works a
 
 ## Target
 
-- Stella Glow (USA), title ID `0004000000173700`, cartridge executable (Zakuro reports it as v2).
+- Stella Glow (USA), title ID `0004000000173700`, cartridge executable, remaster version 0 (`rev0` in Zakuro's terms).
 - `.code` is BLZ-compressed in ExeFS and loads at `0x00100000`. All addresses below are virtual addresses in the decompressed code.
 - No update was available to test against. The cheat's guards stop it writing on a different executable. The IPS has no guard.
 
@@ -65,6 +65,13 @@ At 1x, each blur tap bilinearly mixes neighbouring texels of a coarse 64x64 imag
 ## Emulator-side fix (Zakuro)
 
 A separate Zakuro change keeps the glow and renders it correctly when upscaled. It is behind `ZAKURO_BLOOM_FIX=1` and is not part of this repo. It keeps render targets of 64x64 or smaller at 1x, and box-averages a scaled buffer when a smaller-scale target samples it. Output at 1x is byte-identical with and without it.
+
+## Zakuro and 3dsrecomp notes
+
+- Zakuro loads `code.bin`, `code.ips` or `code.bps` from `mods/<title id>/` or `mods/<title id>/exefs/` (see `crates/zakuro-core/src/mods.rs`). 3dsrecomp builds from the patched code when the mod is present at **Recompile** time.
+- Cheat writes to code go through `write32_privileged`. With a recompiled library loaded, Zakuro calls `library.check()` and runs the changed functions in the interpreter, which is slower.
+- The cheat could ship as a built-in Zakuro enhancement. That means an entry in `crates/zakuro-core/src/enhancements.txt` under `= 0004000000173700 Stella Glow (USA)` with build `rev0`. It would need a PR upstream. Turning an enhancement off restores the overwritten words.
+- 3dsrecomp also supports `RECOMP_OVERRIDE` C functions (`docs/overrides.md`). An override is not needed here, because the IPS is compiled in.
 
 ## How this was made
 

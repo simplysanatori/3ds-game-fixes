@@ -26,7 +26,7 @@ A patch for Stella Glow (USA, 3DS) that removes the ghostly glow around characte
 
 ## Install
 
-Use the patch file. The cheat is only for players who can't use mods.
+Use the patch file. Use the cheat only if you can't use mods.
 
 **Azahar or Citra**
 
@@ -38,7 +38,7 @@ Use the patch file. The cheat is only for players who can't use mods.
 
 1. Click **Mods** next to Stella Glow in the library.
 2. Copy `code.ips` into that folder.
-3. Press **Recompile** next to the game once.
+3. Press **Recompile** next to the game.
 
 **Real 3DS (Luma3DS)**
 
@@ -58,7 +58,7 @@ Delete `code.ips` from the folder you copied it to, or disable the cheat.
 ## Troubleshooting
 
 - Glow is still there: check your copy is the USA release.
-- Cheat does nothing in Zakuro: use the patch file and recompile.
+- The cheat does nothing: use the patch file instead.
 - The soft glow at 1x is gone too: that's expected.
 
 More detail: [docs/USER_GUIDE.md](docs/USER_GUIDE.md).
