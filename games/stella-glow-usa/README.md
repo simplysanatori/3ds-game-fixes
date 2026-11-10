@@ -1,20 +1,18 @@
 # Stella Glow (USA): No Bloom
 
-Removes the ghostly glow and outlines around characters when you raise the internal resolution.
+Removes the glow and doubled outlines around characters when you raise the internal resolution.
 
 ![Battle cursor before and after in Azahar at 6x](images/battle-cursor-before-after.jpg)
 
-The red battle cursor and the ground under it were the worst. Full screen:
+The red battle cursor and the ground under it were the worst offenders. Full screen:
 
 ![Battle before and after, full screen](images/battle-full-before-after.jpg)
 
-The character's hair colour changes between shots because the game pulses the selected unit. That's not the fix.
-
-## The problem
+## What actually caused this
 
 - At 1x, the game draws a soft glow around characters.
-- Above 1x, the glow turns into sharp ghost copies of each character. It gets worse at every step.
-- HD texture packs don't fix it. The glow isn't a texture.
+- Above 1x, the glow turns into sharp ghost copies of each character. It gets worse at every increase in resolution.
+- HD texture packs don't fix it as the glow isn't from a texture.
 
 ## What the fix does
 
