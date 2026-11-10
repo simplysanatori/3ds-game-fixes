@@ -1,72 +1,49 @@
-# Stella Glow No Bloom
+# 3DS Game Fixes
 
-A patch for Stella Glow (USA, 3DS) that removes the ghostly glow around characters at high resolution. Works in Azahar, Citra, Zakuro and on a real 3DS with Luma3DS.
+Patches and cheats that fix graphics bugs and add tweaks to 3DS games. They work in Azahar, Citra, Zakuro and on a real 3DS with Luma3DS.
 
-![Before and after in Azahar at 6x](images/before-after-zoom.jpg)
+## Games
 
-## Features
-
-- Removes the halo and ghost outlines around characters
-- No more stripes under the battle cursor
-- Works at any internal resolution
-- Comes as a patch file or an Action Replay cheat
-- Does nothing on a different game version
+- [Stella Glow (USA)](games/stella-glow-usa/): removes the ghostly glow around characters at high resolution
 
 ## How it works
 
-- The game draws a soft glow by blurring a tiny copy of the screen.
-- Emulators upscale that tiny copy, so the blur turns into sharp ghost copies.
-- This patch turns the glow off at the source. The rest of the picture is unchanged.
-- An HD texture pack can't fix it. The glow isn't a texture.
+- Each game has its own folder under `games/`.
+- Most fixes come as a patch file (`code.ips`) and as a cheat code.
+- The patch changes the game's code when it starts. The cheat does the same change from the cheat menu.
+- Each fix is made for one region and version of the game. It does nothing on a different version.
 
 ## Requirements
 
-- Stella Glow, USA cartridge release (title ID `0004000000173700`)
+- Your own copy of the game, in the region the game's folder names
 - Azahar, Citra or Zakuro, or a 3DS with Luma3DS
 
 ## Install
 
-Use the patch file. Use the cheat only if you can't use mods.
-
-**Azahar or Citra**
-
-1. Right-click Stella Glow in the game list and choose **Open Mods Location**.
-2. Copy `patch/0004000000173700/code.ips` into that folder.
+1. Open the game's folder and find its title ID, for example `0004000000173700`.
+2. Copy `patch/<title ID>/code.ips` into your emulator's mods folder for that game:
+   - Azahar / Citra: right-click the game and choose **Open Mods Location**
+   - Zakuro: click **Mods** next to the game, then press **Recompile**
+   - Real 3DS: `luma/titles/<title ID>/` on the SD card, with **Enable game patching** on in Luma3DS
 3. Start the game.
 
-**Zakuro**
-
-1. Click **Mods** next to Stella Glow in the library.
-2. Copy `code.ips` into that folder.
-3. Press **Recompile** next to the game.
-
-**Real 3DS (Luma3DS)**
-
-1. Copy `code.ips` to `luma/titles/0004000000173700/` on the SD card.
-2. Hold **Select** while powering on and enable **Enable game patching**.
-
-The file must keep the name `code.ips`.
-
-**Cheat instead of patch**
-
-Copy the code from `cheats/0004000000173700.txt` into your emulator's cheat list and enable **No Bloom (USA)**.
+The file has to be named `code.ips`. Use the cheat in `cheats/<title ID>.txt` only if you can't use mods.
 
 ## Uninstall
 
-Delete `code.ips` from the folder you copied it to, or disable the cheat.
+Delete `code.ips` from the mods folder, or turn off the cheat.
 
 ## Troubleshooting
 
-- Glow is still there: check your copy is the USA release.
+- Fix doesn't work: check your game's region and title ID match the folder.
 - The cheat does nothing: use the patch file instead.
-- The soft glow at 1x is gone too: that's expected.
-
-More detail: [docs/USER_GUIDE.md](docs/USER_GUIDE.md).
+- The patch isn't picked up: the file must be named `code.ips`.
 
 ## More
 
-- [User guide](docs/USER_GUIDE.md)
-- [AGENTS.md](AGENTS.md): how the bug was found and fixed, for developers and AI agents
+- [User guide](docs/USER_GUIDE.md): install folders for each emulator, cheats, real 3DS
+- [AGENTS.md](AGENTS.md): how the repo is laid out and how fixes are made, for developers and AI agents
+- Each game folder has an `AGENTS.md` with how its fix works
 
 ## Support
 
@@ -74,7 +51,7 @@ https://ko-fi.com/sana748653
 
 ## Credits
 
-- [Zakuro](https://github.com/fearkov/zakuro): the 3DS emulator used to trace the glow
+- [Zakuro](https://github.com/fearkov/zakuro): the 3DS emulator used to trace and test fixes
 
 ## Licence
 
@@ -82,4 +59,4 @@ MIT
 
 ## How this was made
 
-I started this project and used AI (Claude) to speed up development. I write, review and fix code by hand all the way through, keep the AI's work checked and reined in, and aim to keep the patch as lightweight as possible. I test it in Azahar and Zakuro on my own PC.
+I started this project and used AI (Claude) to speed up development. I write, review and fix code by hand all the way through, keep the AI's work checked and reined in, and aim to keep the patches as lightweight as possible. I test them in Azahar and Zakuro on my own PC.
