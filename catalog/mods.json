@@ -1758,6 +1758,118 @@
         ]
       },
       "notes": "Skips the avatar creation screen when you start a new game and uses the default Robin instead (North America only). It is a code patch, so it replaces any other code patch for the game, including the 60 FPS patch."
+    },
+    {
+      "id": "kiu-cstick-gyro",
+      "name": "C-Stick & Gyro",
+      "title": "Kid Icarus: Uprising",
+      "title_ids": [
+        "0004000000030100",
+        "0004000000030200",
+        "0004000000030000"
+      ],
+      "author": "Darkshade",
+      "author_url": "https://gbatemp.net/threads/kid-icarus-uprising-c-stick-gyro-patch.685775/",
+      "licence": "Not stated",
+      "homepage": "https://gbatemp.net/threads/kid-icarus-uprising-c-stick-gyro-patch.685775/",
+      "verified": false,
+      "source": {
+        "type": "mega",
+        "link": "https://mega.nz/file/mS5QwCzb#bKRm4ltwCj8XN2Xd23os8yFiOaJD_zvA5xDTH5yF8rQ",
+        "file_pattern": "*.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "*/Emulator/1 - Install First - Base Patch/*/load/mods/{tid}/exefs/",
+            "to": "exefs/"
+          },
+          {
+            "from": "*/Emulator/1 - Install First - Base Patch/*/load/mods/{tid}/exheader.bin",
+            "to": "exheader.bin"
+          },
+          {
+            "from": "*/Emulator/1 - Install First - Base Patch/*/load/mods/{tid}/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Aim with the right stick (C-Stick) or gyro. For the USA, Europe and Japan versions. Replaces the game's code, so it clashes with other code patches. Hosted by the author on MEGA; only your region's files are downloaded."
+    },
+    {
+      "id": "kiu-cstick-gyro-widescreen-16-9",
+      "name": "Widescreen 16:9",
+      "title": "Kid Icarus: Uprising",
+      "title_ids": [
+        "0004000000030100",
+        "0004000000030200",
+        "0004000000030000"
+      ],
+      "author": "Darkshade",
+      "author_url": "https://gbatemp.net/threads/kid-icarus-uprising-c-stick-gyro-patch.685775/",
+      "licence": "Not stated",
+      "homepage": "https://gbatemp.net/threads/kid-icarus-uprising-c-stick-gyro-patch.685775/",
+      "verified": false,
+      "source": {
+        "type": "mega",
+        "link": "https://mega.nz/file/mS5QwCzb#bKRm4ltwCj8XN2Xd23os8yFiOaJD_zvA5xDTH5yF8rQ",
+        "file_pattern": "*.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "*/Emulator/2 - Optional - Widescreen/16-9 - Widescreen/*/load/mods/{tid}/exefs/",
+            "to": "exefs/"
+          },
+          {
+            "from": "*/Emulator/2 - Optional - Widescreen/16-9 - Widescreen/*/load/mods/{tid}/exheader.bin",
+            "to": "exheader.bin"
+          },
+          {
+            "from": "*/Emulator/1 - Install First - Base Patch/*/load/mods/{tid}/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "The C-Stick & Gyro patch with a 16:9 widescreen view. Includes the C-Stick & Gyro patch and replaces it, so install only one of the three."
+    },
+    {
+      "id": "kiu-cstick-gyro-ultrawide-21-9",
+      "name": "Ultrawide 21:9",
+      "title": "Kid Icarus: Uprising",
+      "title_ids": [
+        "0004000000030100",
+        "0004000000030200",
+        "0004000000030000"
+      ],
+      "author": "Darkshade",
+      "author_url": "https://gbatemp.net/threads/kid-icarus-uprising-c-stick-gyro-patch.685775/",
+      "licence": "Not stated",
+      "homepage": "https://gbatemp.net/threads/kid-icarus-uprising-c-stick-gyro-patch.685775/",
+      "verified": false,
+      "source": {
+        "type": "mega",
+        "link": "https://mega.nz/file/mS5QwCzb#bKRm4ltwCj8XN2Xd23os8yFiOaJD_zvA5xDTH5yF8rQ",
+        "file_pattern": "*.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "*/Emulator/2 - Optional - Widescreen/21-9 - Ultrawide/*/load/mods/{tid}/exefs/",
+            "to": "exefs/"
+          },
+          {
+            "from": "*/Emulator/2 - Optional - Widescreen/21-9 - Ultrawide/*/load/mods/{tid}/exheader.bin",
+            "to": "exheader.bin"
+          },
+          {
+            "from": "*/Emulator/1 - Install First - Base Patch/*/load/mods/{tid}/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "The C-Stick & Gyro patch with a 21:9 ultrawide view. Includes the C-Stick & Gyro patch and replaces it, so install only one of the three."
     }
   ]
 }
+
