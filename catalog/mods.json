@@ -8991,5 +8991,33 @@
       },
       "notes": "A Turkish translation for the European 3DS release, ported from the Switch patch by Reqrefusion. It replaces the game's code, so it clashes with other code patches, and its 132 MB data file makes the download about 113 MB. It is for the Europe version only."
     }
+  ],
+  "versions": [
+    {
+      "title_ids": [
+        "001B4100"
+      ],
+      "raw": 1024,
+      "shown": "1.1",
+      "source": "Fire Emblem Echoes (Europe) with its update installed: the title screen shows ver 1.1 (checked in a run of the emulator)"
+    },
+    {
+      "title_ids": [
+        "00030800",
+        "00030700",
+        "00030600"
+      ],
+      "raw": 1040,
+      "shown": "1.1",
+      "source": "3dbrew Title list/Patches: Mario Kart 7 [Update Data] v1.1 (v1040), USA, Europe and Japan"
+    },
+    {
+      "title_ids": [
+        "00030800"
+      ],
+      "raw": 3072,
+      "shown": "1.2",
+      "source": "Mario Kart 7 (USA): the installed update's SMDH large icon reads Ver. 1.2 (Nintendo's Dec 2022 update, the only one after 1.1 = v1040)"
+    }
   ]
 }
