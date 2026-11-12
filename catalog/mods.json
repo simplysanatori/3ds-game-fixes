@@ -2981,7 +2981,8 @@
           }
         ]
       },
-      "notes": "Restores the Japanese voices for the game and its DLC and keeps English-subtitled cutscenes. It ships a patched code.bin and exheader.bin that load the audio, so it replaces other code patches. The patched archive is about 1.2 GB, which is large for the app; the author's Mod Compendium files are not needed."
+      "notes": "Restores the Japanese voices for the game and its DLC and keeps English-subtitled cutscenes. It ships a patched code.bin and exheader.bin that load the audio, so it replaces other code patches. The download is about 1.2 GB; the author's Mod Compendium files are not needed.",
+      "size": 1184516283
     },
     {
       "id": "persona-q-true-undub-eur",
@@ -3018,7 +3019,8 @@
           }
         ]
       },
-      "notes": "Restores the Japanese voices for the game and its DLC and keeps English-subtitled cutscenes. It ships a patched code.bin and exheader.bin for the European version, which the author says can have problems detecting DLC. The patched archive is about 1.2 GB, which is large for the app."
+      "notes": "Restores the Japanese voices for the game and its DLC and keeps English-subtitled cutscenes. It ships a patched code.bin and exheader.bin for the European version, which the author says can have problems detecting DLC. The download is about 1.2 GB.",
+      "size": 1184516283
     },
     {
       "id": "persona-q-spanish-translation",
@@ -6391,7 +6393,8 @@
           }
         ]
       },
-      "notes": "Adds the new class portraits from the Etrian Odyssey HD Remaster by overwriting the extra DLC portrait slots. It needs the Yggdrasil Veteran DLC portrait pack installed, otherwise only one new portrait shows. The 1.1 GB archive replaces the game's main data archive and is far over the app's size limit."
+      "notes": "Adds the new class portraits from the Etrian Odyssey HD Remaster by overwriting the extra DLC portrait slots. It needs the Yggdrasil Veteran DLC portrait pack installed, otherwise only one new portrait shows. The 1.1 GB download replaces the game's main data archive.",
+      "size": 1155422774
     },
     {
       "id": "pkmn-sun-shiny-lock-removal",
