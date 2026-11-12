@@ -16,6 +16,13 @@
         "type": "owner_repo_path",
         "path": "games/stella-glow-usa/patch/0004000000173700/code.ips"
       },
+      "version_chip": {
+        "label": "1.0",
+        "tip": "For the game as released (1.0), without an update.",
+        "code_crc32": [
+          "bcefeb6e"
+        ]
+      },
       "install": {
         "rules": [
           {
@@ -46,6 +53,13 @@
         "type": "gamebanana",
         "mod": 695893,
         "file_pattern": "singlescreen_*.zip"
+      },
+      "version_chip": {
+        "label": "1.0",
+        "tip": "For the game as released (1.0), without an update.",
+        "code_crc32": [
+          "9d9683e5"
+        ]
       },
       "install": {
         "rules": [
@@ -88,6 +102,13 @@
         "tag": "latest",
         "asset_pattern": "Ocarina-ReFramed-*-Single-Screen-Mods.zip"
       },
+      "version_chip": {
+        "label": "1.0",
+        "tip": "For the game as released (1.0), without an update.",
+        "code_crc32": [
+          "9d9683e5"
+        ]
+      },
       "install": {
         "rules": [
           {
@@ -120,6 +141,13 @@
         "repo": "OTPR26/OOT3DHud",
         "tag": "latest",
         "asset_pattern": "Ocarina-ReFramed-*-Dual-Screen-Mods.zip"
+      },
+      "version_chip": {
+        "label": "1.0",
+        "tip": "For the game as released (1.0), without an update.",
+        "code_crc32": [
+          "9d9683e5"
+        ]
       },
       "install": {
         "rules": [
@@ -808,6 +836,13 @@
         "mod": 51424,
         "file_pattern": "shaderfix.zip"
       },
+      "version_chip": {
+        "label": "1.0",
+        "tip": "For the game as released (1.0), without an update.",
+        "code_crc32": [
+          "290d9542"
+        ]
+      },
       "install": {
         "rules": [
           {
@@ -1117,7 +1152,7 @@
           }
         ]
       },
-      "notes": "Runs the game at 60 FPS without speeding up the game itself (North America). It needs game update 1.1, and is a code patch that replaces any other code patch, such as the ghosting shader fix."
+      "notes": "Runs the game at 60 FPS without speeding up the game itself (North America). Needs game update 1.1. Can't be used with the Ghosting Shader Fix, so the ghosting and blown-out brightness come back at higher resolutions."
     },
     {
       "id": "echoes-60fps-eu",
@@ -1140,7 +1175,10 @@
       },
       "version_chip": {
         "label": "1.1",
-        "tip": "For game update 1.1."
+        "tip": "For game update 1.1.",
+        "code_crc32": [
+          "23cc4afb"
+        ]
       },
       "install": {
         "rules": [
@@ -1150,7 +1188,7 @@
           }
         ]
       },
-      "notes": "Runs the game at 60 FPS without speeding up the game itself (Europe). It needs game update 1.1, and is a code patch that replaces any other code patch, such as the ghosting shader fix."
+      "notes": "Runs the game at 60 FPS without speeding up the game itself (Europe). Needs game update 1.1. Can't be used with the Ghosting Shader Fix, so the ghosting and blown-out brightness come back at higher resolutions."
     },
     {
       "id": "echoes-60fps-jp",
@@ -1183,7 +1221,7 @@
           }
         ]
       },
-      "notes": "Runs the game at 60 FPS without speeding up the game itself (Japan). It needs game update 1.1, and is a code patch that replaces any other code patch, such as the ghosting shader fix."
+      "notes": "Runs the game at 60 FPS without speeding up the game itself (Japan). Needs game update 1.1. Can't be used with the Ghosting Shader Fix, so the ghosting and blown-out brightness come back at higher resolutions."
     },
     {
       "id": "echoes-ghosting-shader-fix-us-v10",
@@ -1272,7 +1310,10 @@
       },
       "version_chip": {
         "label": "1.0",
-        "tip": "For game version 1.0."
+        "tip": "For the game without its update (version 1.0).",
+        "code_crc32": [
+          "40d93b41"
+        ]
       },
       "install": {
         "rules": [
@@ -1305,7 +1346,10 @@
       },
       "version_chip": {
         "label": "1.1",
-        "tip": "For game version 1.1."
+        "tip": "For the game with its 1.1 update.",
+        "code_crc32": [
+          "23cc4afb"
+        ]
       },
       "install": {
         "rules": [
@@ -1494,7 +1538,10 @@
       },
       "version_chip": {
         "label": "1.1",
-        "tip": "For game update 1.1."
+        "tip": "For game update 1.1.",
+        "code_crc32": [
+          "23cc4afb"
+        ]
       },
       "install": {
         "rules": [
@@ -1527,7 +1574,10 @@
       },
       "version_chip": {
         "label": "1.1",
-        "tip": "For game update 1.1."
+        "tip": "For game update 1.1.",
+        "code_crc32": [
+          "23cc4afb"
+        ]
       },
       "install": {
         "rules": [
@@ -1560,7 +1610,10 @@
       },
       "version_chip": {
         "label": "1.0",
-        "tip": "For game version 1.0."
+        "tip": "For game version 1.0.",
+        "code_crc32": [
+          "31dad06e"
+        ]
       },
       "install": {
         "rules": [
@@ -1746,6 +1799,13 @@
         "mod": 424187,
         "file_pattern": "uga_full_*.7z"
       },
+      "version_chip": {
+        "label": "1.0",
+        "tip": "For the game as released (1.0), without an update.",
+        "code_crc32": [
+          "31dad06e"
+        ]
+      },
       "install": {
         "rules": [
           {
@@ -1868,6 +1928,13 @@
         "type": "gamebanana",
         "mod": 736542,
         "file_pattern": "fe13_removeavatarcreation.zip"
+      },
+      "version_chip": {
+        "label": "1.0",
+        "tip": "For the game as released (1.0), without an update.",
+        "code_crc32": [
+          "31dad06e"
+        ]
       },
       "install": {
         "rules": [
@@ -2103,6 +2170,13 @@
         "mod": 486567,
         "file_pattern": "x_citra_shiny_lock_removal_40a3b.zip"
       },
+      "version_chip": {
+        "label": "1.0",
+        "tip": "For the game as released (1.0), without an update.",
+        "code_crc32": [
+          "3778c475"
+        ]
+      },
       "install": {
         "rules": [
           {
@@ -2133,6 +2207,13 @@
         "type": "gamebanana",
         "mod": 486567,
         "file_pattern": "x_citra_shiny_lock_removal_trades.zip"
+      },
+      "version_chip": {
+        "label": "1.0",
+        "tip": "For the game as released (1.0), without an update.",
+        "code_crc32": [
+          "3778c475"
+        ]
       },
       "install": {
         "rules": [
