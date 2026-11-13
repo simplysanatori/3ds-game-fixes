@@ -1988,6 +1988,7 @@
     {
       "id": "kiu-cstick-gyro-widescreen-16-9",
       "name": "Widescreen 16:9",
+      "aspect": "16:9",
       "title": "Kid Icarus: Uprising",
       "title_ids": [
         "0004000000030100",
@@ -2027,6 +2028,7 @@
     {
       "id": "kiu-cstick-gyro-ultrawide-21-9",
       "name": "Ultrawide 21:9",
+      "aspect": "21:9",
       "title": "Kid Icarus: Uprising",
       "title_ids": [
         "0004000000030100",
