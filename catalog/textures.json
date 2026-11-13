@@ -2347,6 +2347,275 @@
       "homepage": "https://gamebanana.com/mods/9944",
       "notes": "The HD texture pack for the Europe and Australia versions, last updated in 2020.",
       "verified": false
+    },
+    {
+      "id": "oot3d-blood-in-the-well",
+      "name": "Blood in the Well",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500",
+        "0004000000033600",
+        "0004000000033400"
+      ],
+      "author": "HugAMuffin",
+      "author_url": "https://gamebanana.com/members/1608504",
+      "downloads": 3940,
+      "updated": "2026-02",
+      "source": {
+        "type": "gamebanana",
+        "mod": 150246,
+        "file_pattern": "blood_in_the_well.rar"
+      },
+      "size": 415825,
+      "format": "rar",
+      "layout": "single",
+      "folder": "Blood in the Well",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/150246",
+      "notes": "Brings back some of the blood cut from the 3DS version, mostly in the Well.",
+      "verified": false
+    },
+    {
+      "id": "oot3d-original-dead-hand",
+      "name": "Original Dead Hand",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500",
+        "0004000000033600",
+        "0004000000033400"
+      ],
+      "author": "LochNessHamster",
+      "author_url": "https://gamebanana.com/members/1082848",
+      "downloads": 3734,
+      "updated": "2021-06",
+      "source": {
+        "type": "gamebanana",
+        "mod": 297645,
+        "file_pattern": "original_dead_hand_-_oot3d.zip"
+      },
+      "size": 740312,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Original Dead Hand",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/297645",
+      "notes": "Recreates the Dead Hand's original, more horrific design.",
+      "verified": false
+    },
+    {
+      "id": "oot3d-expressive-face-young-link",
+      "name": "Expressive Face Textures for Young Link",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500",
+        "0004000000033600",
+        "0004000000033400"
+      ],
+      "author": "LochNessHamster",
+      "author_url": "https://gamebanana.com/members/1082848",
+      "downloads": 3441,
+      "updated": "2021-06",
+      "source": {
+        "type": "gamebanana",
+        "mod": 250773,
+        "file_pattern": "oot3d_-_expressive_face_textures_v2_*.zip"
+      },
+      "size": 2557644,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Expressive Face Textures for Young Link",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/250773",
+      "notes": "Higher-resolution face textures that make Young Link more expressive.",
+      "verified": false
+    },
+    {
+      "id": "oot3d-art-accurate-link",
+      "name": "Art-Accurate Link",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500",
+        "0004000000033600",
+        "0004000000033400"
+      ],
+      "author": "LochNessHamster",
+      "author_url": "https://gamebanana.com/members/1082848",
+      "downloads": 2377,
+      "updated": "2021-06",
+      "source": {
+        "type": "gamebanana",
+        "mod": 250774,
+        "file_pattern": "oot3d_-_art_accurate_link_v20.zip"
+      },
+      "size": 8324662,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Art-Accurate Link",
+      "layer_on": "oot3d-link-skin-pack",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/250774",
+      "notes": "Redraws Link to match the official art; the author says to install it after the Link Skin Pack.",
+      "verified": false
+    },
+    {
+      "id": "oot3d-enhanced-hd-link",
+      "name": "Enhanced HD Link",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500"
+      ],
+      "author": "Darky57",
+      "author_url": "https://gamebanana.com/members/2745839",
+      "downloads": 2320,
+      "updated": "2023-12",
+      "source": {
+        "type": "gamebanana",
+        "mod": 482884,
+        "file_pattern": "definitive_3ds_link_*.zip"
+      },
+      "size": 30912428,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Enhanced HD Link",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/482884",
+      "notes": "A hand-made HD Link for the USA version, meant to go over the Henriko HD pack.",
+      "verified": false
+    },
+    {
+      "id": "oot3d-vanilla-brightness-tweaks",
+      "name": "Vanilla Brightness Tweaks",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500",
+        "0004000000033600",
+        "0004000000033400"
+      ],
+      "author": "lmfaoman1217",
+      "author_url": "https://gamebanana.com/members/2812638",
+      "downloads": 1890,
+      "updated": "2026-05",
+      "source": {
+        "type": "gamebanana",
+        "mod": 657902,
+        "file_pattern": "oot3d_vanilla_tweaks_*.zip"
+      },
+      "size": 19276452,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Vanilla Brightness Tweaks",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/657902",
+      "notes": "Darkens the overbright areas, with one folder per area so each can be turned off.",
+      "verified": false
+    },
+    {
+      "id": "oot3d-redrawn-hd-minimaps",
+      "name": "Redrawn HD Minimaps",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500",
+        "0004000000033600",
+        "0004000000033400"
+      ],
+      "author": "MistSonata",
+      "author_url": "https://gamebanana.com/members/3405660",
+      "downloads": 1886,
+      "updated": "2024-05",
+      "source": {
+        "type": "gamebanana",
+        "mod": 515850,
+        "file_pattern": "oot3ds_minimaps_1-1.rar"
+      },
+      "size": 1739198,
+      "format": "rar",
+      "layout": "single",
+      "folder": "Redrawn HD Minimaps",
+      "licence": "CC BY 4.0",
+      "homepage": "https://gamebanana.com/mods/515850",
+      "notes": "Hand-drawn minimaps made for 4K, without the dungeon maps.",
+      "verified": false
+    },
+    {
+      "id": "oot3d-hylian-shield-triforce-fix",
+      "name": "Hylian Shield Triforce Fix",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500",
+        "0004000000033600",
+        "0004000000033400"
+      ],
+      "author": "LochNessHamster",
+      "author_url": "https://gamebanana.com/members/1082848",
+      "downloads": 1837,
+      "updated": "2020-04",
+      "source": {
+        "type": "gamebanana",
+        "mod": 250771,
+        "file_pattern": "ocarina_of_time_3d_-_hylian_shield_*.zip"
+      },
+      "size": 211944,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Hylian Shield Triforce Fix",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/250771",
+      "notes": "Reshapes the Triforce on the Hylian Shield to match the original.",
+      "verified": false
+    },
+    {
+      "id": "oot3d-og-ganon-fight",
+      "name": "OG Ganon Fight Texture Pack",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500",
+        "0004000000033600",
+        "0004000000033400"
+      ],
+      "author": "YaBoiMikey",
+      "author_url": "https://gamebanana.com/members/1757292",
+      "downloads": 1806,
+      "updated": "2020-11",
+      "source": {
+        "type": "gamebanana",
+        "mod": 250778,
+        "file_pattern": "423_classic_ganon.rar"
+      },
+      "size": 8971865,
+      "format": "rar",
+      "layout": "single",
+      "folder": "OG Ganon Fight Texture Pack",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/250778",
+      "notes": "Textures that bring the Ganon fight closer to the original.",
+      "verified": false
+    },
+    {
+      "id": "oot3d-hd-master-sword",
+      "name": "HD Hand-Drawn Master Sword",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500",
+        "0004000000033600",
+        "0004000000033400"
+      ],
+      "author": "LochNessHamster",
+      "author_url": "https://gamebanana.com/members/1082848",
+      "downloads": 1780,
+      "updated": "2021-06",
+      "source": {
+        "type": "gamebanana",
+        "mod": 250769,
+        "file_pattern": "hd_master_sword_textures_-_oot3d_-_.zip"
+      },
+      "size": 469247,
+      "format": "zip",
+      "layout": "single",
+      "folder": "HD Hand-Drawn Master Sword",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/250769",
+      "notes": "A hand-drawn HD Master Sword and scabbard.",
+      "verified": false
     }
   ]
 }
