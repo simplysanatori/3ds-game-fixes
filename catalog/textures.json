@@ -2227,6 +2227,126 @@
       "homepage": "https://gamebanana.com/mods/403826",
       "notes": "HD UI, icons and font that go on top of the Combined HD Pack, for the USA version.",
       "verified": false
+    },
+    {
+      "id": "awakening-aahd-effects",
+      "name": "Amateur Awakening HD: Effects and Cutscenes",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "00040000000A0500"
+      ],
+      "author": "L498",
+      "author_url": "https://gamebanana.com/members/2091373",
+      "downloads": 26582,
+      "updated": "2025-10",
+      "source": {
+        "type": "gdrive",
+        "file_id": "1UYdPOB-Ztpv6aSY83djEoATMFYGHxw74"
+      },
+      "size": 855877470,
+      "format": "zip",
+      "layout": "single",
+      "folder": "AAHD Effects and Cutscenes",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/400809",
+      "notes": "Blush, confession, critical hit, cutscene and DLC textures. One part of Amateur Awakening HD, for the USA version.",
+      "verified": true
+    },
+    {
+      "id": "awakening-aahd-characters-ui",
+      "name": "Amateur Awakening HD: Characters and UI",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "00040000000A0500"
+      ],
+      "author": "L498",
+      "author_url": "https://gamebanana.com/members/2091373",
+      "downloads": 26582,
+      "updated": "2025-10",
+      "source": {
+        "type": "gdrive",
+        "file_id": "1bRfDWoryYf9Wl4Dk6hxLgO2xDmNk5IWB"
+      },
+      "size": 725807104,
+      "format": "zip",
+      "layout": "single",
+      "folder": "AAHD Characters and UI",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/400809",
+      "notes": "Redrawn character textures and UI. One part of Amateur Awakening HD, for the USA version.",
+      "verified": true
+    },
+    {
+      "id": "awakening-aahd-maps",
+      "name": "Amateur Awakening HD: Map Textures",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "00040000000A0500"
+      ],
+      "author": "L498",
+      "author_url": "https://gamebanana.com/members/2091373",
+      "downloads": 26582,
+      "updated": "2025-10",
+      "source": {
+        "type": "gdrive",
+        "file_id": "17ExQwGA8FEK8BAsc-aLNjmto3wNW1A7x"
+      },
+      "size": 3032430618,
+      "format": "zip",
+      "layout": "single",
+      "folder": "AAHD Map Textures",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/400809",
+      "notes": "The large map textures. One part of Amateur Awakening HD, for the USA version.",
+      "verified": true
+    },
+    {
+      "id": "awakening-aa3d",
+      "name": "Amateur Awakening 3D",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "00040000000A0500"
+      ],
+      "author": "L498",
+      "author_url": "https://gamebanana.com/members/2091373",
+      "downloads": 4557,
+      "updated": "2026-01",
+      "source": {
+        "type": "gamebanana",
+        "mod": 548234,
+        "file_pattern": "aa3d_*.zip"
+      },
+      "size": 116283084,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Amateur Awakening 3D",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/548234",
+      "notes": "3D model textures in the same style, for the USA version; works with Amateur Awakening HD.",
+      "verified": false
+    },
+    {
+      "id": "awakening-project-reawakening-eur",
+      "name": "Project reAwakening v0.3",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "000400000009F100"
+      ],
+      "author": "rdnc",
+      "downloads": 5672,
+      "updated": "2020-06",
+      "source": {
+        "type": "gamebanana",
+        "mod": 9944,
+        "file_pattern": "project_reawakening_v03_*.rar"
+      },
+      "size": 37972156,
+      "format": "rar",
+      "layout": "single",
+      "folder": "Project reAwakening v0.3",
+      "homepage": "https://gamebanana.com/mods/9944",
+      "notes": "The HD texture pack for the Europe and Australia versions, last updated in 2020.",
+      "verified": false
     }
   ]
 }
