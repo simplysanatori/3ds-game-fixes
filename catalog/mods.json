@@ -9155,6 +9155,37 @@
         ]
       },
       "notes": "Dresses Pumpkaboo up in a new outfit."
+    },
+    {
+      "id": "mk7-ultra-kart-7-beta",
+      "name": "Ultra Kart 7 (Beta)",
+      "title": "Mario Kart 7",
+      "title_ids": [
+        "0004000000030800",
+        "0004000000030700",
+        "0004000000030600"
+      ],
+      "author": "Cats4Life",
+      "author_url": "https://gamebanana.com/members/1706586",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/362204",
+      "verified": false,
+      "downloads": 1824,
+      "updated": "2022-10",
+      "source": {
+        "type": "gdrive",
+        "file_id": "1yaeuC5rSaEvGRE_BMi8TH7mfHPv4j7mI"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "A beta set of 32 custom tracks and 16 custom characters, installed as replacement game files.",
+      "size": 351092755
     }
   ],
   "versions": [
