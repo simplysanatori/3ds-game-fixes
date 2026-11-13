@@ -4,7 +4,6 @@
     {
       "id": "stella-glow-usa-no-bloom",
       "name": "No Bloom",
-      "recommended": true,
       "title": "Stella Glow (USA)",
       "title_ids": [
         "0004000000173700"
@@ -37,7 +36,6 @@
     {
       "id": "ocarina-single-screen-experience",
       "name": "Single Screen Experience",
-      "recommended": true,
       "title": "The Legend of Zelda: Ocarina of Time 3D",
       "title_ids": [
         "0004000000033500",
@@ -206,7 +204,6 @@
     {
       "id": "mm3d-project-restoration-v110",
       "name": "Project Restoration",
-      "recommended": true,
       "title": "The Legend of Zelda: Majora's Mask 3D",
       "title_ids": [
         "0004000000125500",
@@ -823,7 +820,6 @@
     {
       "id": "fates-ghosting-shader-fix-us-se",
       "name": "Ghosting Shader Fix",
-      "recommended": true,
       "title": "Fire Emblem Fates Special Edition (USA)",
       "title_ids": [
         "0004000000179800"
@@ -860,7 +856,6 @@
     {
       "id": "fates-ghosting-shader-fix-eu-se",
       "name": "Ghosting Shader Fix",
-      "recommended": true,
       "title": "Fire Emblem Fates Special Edition (Europe)",
       "title_ids": [
         "000400000017A800"
@@ -890,7 +885,6 @@
     {
       "id": "fates-ghosting-shader-fix-jp",
       "name": "Ghosting Shader Fix",
-      "recommended": true,
       "title": "Fire Emblem Fates (Japan)",
       "title_ids": [
         "000400000012DE00",
@@ -922,7 +916,6 @@
     {
       "id": "fates-ghosting-shader-fix-us-bc",
       "name": "Ghosting Shader Fix",
-      "recommended": true,
       "title": "Fire Emblem Fates Birthright / Conquest (USA)",
       "title_ids": [
         "0004000000179400",
@@ -953,7 +946,6 @@
     {
       "id": "fates-ghosting-shader-fix-eu-bc",
       "name": "Ghosting Shader Fix",
-      "recommended": true,
       "title": "Fire Emblem Fates Birthright / Conquest (Europe)",
       "title_ids": [
         "0004000000179500",
@@ -1132,7 +1124,6 @@
     {
       "id": "echoes-60fps-us",
       "name": "True 60 FPS (No Speedup)",
-      "recommended": true,
       "title": "Fire Emblem Echoes: Shadows of Valentia",
       "title_ids": [
         "00040000001B4000"
@@ -1166,7 +1157,6 @@
     {
       "id": "echoes-60fps-eu",
       "name": "True 60 FPS (No Speedup)",
-      "recommended": true,
       "title": "Fire Emblem Echoes: Shadows of Valentia",
       "title_ids": [
         "00040000001B4100"
@@ -1203,7 +1193,6 @@
     {
       "id": "echoes-60fps-jp",
       "name": "True 60 FPS (No Speedup)",
-      "recommended": true,
       "title": "Fire Emblem Echoes: Shadows of Valentia",
       "title_ids": [
         "00040000001A2B00"
@@ -1270,7 +1259,6 @@
     {
       "id": "echoes-ghosting-shader-fix-us-v11",
       "name": "Ghosting Shader Fix",
-      "recommended": true,
       "title": "Fire Emblem Echoes: Shadows of Valentia",
       "title_ids": [
         "00040000001B4000"
@@ -1340,7 +1328,6 @@
     {
       "id": "echoes-ghosting-shader-fix-eu-v11",
       "name": "Ghosting Shader Fix",
-      "recommended": true,
       "title": "Fire Emblem Echoes: Shadows of Valentia",
       "title_ids": [
         "00040000001B4100"
@@ -1410,7 +1397,6 @@
     {
       "id": "echoes-ghosting-shader-fix-jp-v11",
       "name": "Ghosting Shader Fix",
-      "recommended": true,
       "title": "Fire Emblem Echoes: Shadows of Valentia",
       "title_ids": [
         "00040000001A2B00"
@@ -1606,7 +1592,6 @@
     {
       "id": "awakening-60fps-us",
       "name": "True 60 FPS (No Speedup)",
-      "recommended": true,
       "title": "Fire Emblem Awakening",
       "title_ids": [
         "00040000000A0500"
@@ -1643,7 +1628,6 @@
     {
       "id": "awakening-60fps-eu",
       "name": "True 60 FPS (No Speedup)",
-      "recommended": true,
       "title": "Fire Emblem Awakening",
       "title_ids": [
         "000400000009F100"
@@ -1677,7 +1661,6 @@
     {
       "id": "awakening-60fps-jp",
       "name": "True 60 FPS (No Speedup)",
-      "recommended": true,
       "title": "Fire Emblem Awakening",
       "title_ids": [
         "0004000000072000"
@@ -1966,7 +1949,6 @@
     {
       "id": "kiu-cstick-gyro",
       "name": "C-Stick & Gyro",
-      "recommended": true,
       "title": "Kid Icarus: Uprising",
       "title_ids": [
         "0004000000030100",
@@ -7948,7 +7930,6 @@
     {
       "id": "msr-no-bloom",
       "name": "No Bloom",
-      "recommended": true,
       "title": "Metroid: Samus Returns",
       "title_ids": [
         "00040000001BB200",

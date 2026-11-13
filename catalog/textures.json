@@ -4,7 +4,6 @@
     {
       "id": "mm3d-hd-deathwrench",
       "name": "Majora's Mask 3D HD",
-      "recommended": true,
       "title": "The Legend of Zelda: Majora's Mask 3D",
       "title_ids": [
         "0004000000125500",
@@ -85,7 +84,6 @@
     {
       "id": "oot3d-4k-henriko",
       "name": "Ocarina of Time 3D 4K",
-      "recommended": true,
       "title": "The Legend of Zelda: Ocarina of Time 3D",
       "title_ids": [
         "0004000000033500",
@@ -118,7 +116,6 @@
     {
       "id": "oot3d-1080p-henriko",
       "name": "Ocarina of Time 3D 1080p",
-      "recommended": true,
       "title": "The Legend of Zelda: Ocarina of Time 3D",
       "title_ids": [
         "0004000000033500",
@@ -151,7 +148,6 @@
     {
       "id": "mm3d-4k-henriko",
       "name": "Majora's Mask 3D 4K",
-      "recommended": true,
       "title": "The Legend of Zelda: Majora's Mask 3D",
       "title_ids": [
         "0004000000125500",
@@ -224,7 +220,6 @@
     {
       "id": "sm3dl-1080p-henriko",
       "name": "Super Mario 3D Land 1080p",
-      "recommended": true,
       "title": "Super Mario 3D Land",
       "title_ids": [
         "0004000000054000",
@@ -272,7 +267,6 @@
     {
       "id": "albw-1080p-henriko",
       "name": "A Link Between Worlds 1080p",
-      "recommended": true,
       "title": "The Legend of Zelda: A Link Between Worlds",
       "title_ids": [
         "00040000000EC300"
