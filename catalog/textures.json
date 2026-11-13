@@ -1992,6 +1992,241 @@
       "homepage": "https://gamebanana.com/mods/34054",
       "notes": "Makes the on-screen button prompts semi-transparent so they are less intrusive without being removed, with 30 small textures at 80% transparency. It is a tiny download, and the author made it for Citra.",
       "verified": false
+    },
+    {
+      "id": "fates-hd-combined-ui",
+      "name": "Combined HD Pack: UI",
+      "title": "Fire Emblem Fates (USA)",
+      "title_ids": [
+        "0004000000179800",
+        "0004000000179400",
+        "0004000000179600"
+      ],
+      "author": "Zoran501",
+      "author_url": "https://gamebanana.com/members/1735224",
+      "downloads": 20833,
+      "updated": "2022-10",
+      "source": {
+        "type": "gdrive",
+        "file_id": "1ApmQDEIT89Yzui-PA0SqFMG5vA3ktU7H"
+      },
+      "size": 110079817,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Fates HD UI",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/351105",
+      "notes": "Redrawn menus, text boxes, skill icons and the like. One part of the Combined HD Pack, made for the USA version.",
+      "verified": true
+    },
+    {
+      "id": "fates-hd-combined-fonts",
+      "name": "Combined HD Pack: Fonts",
+      "title": "Fire Emblem Fates (USA)",
+      "title_ids": [
+        "0004000000179800",
+        "0004000000179400",
+        "0004000000179600"
+      ],
+      "author": "Zoran501",
+      "author_url": "https://gamebanana.com/members/1735224",
+      "downloads": 20833,
+      "updated": "2022-10",
+      "source": {
+        "type": "gdrive",
+        "file_id": "11PQmu6kA9HIhLuHH5z6AS3kCx8BVJnLf"
+      },
+      "size": 2714035,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Fates HD Fonts",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/351105",
+      "notes": "Redrawn fonts. One part of the Combined HD Pack, made for the USA version.",
+      "verified": true
+    },
+    {
+      "id": "fates-hd-combined-character-artwork",
+      "name": "Combined HD Pack: Character Artwork",
+      "title": "Fire Emblem Fates (USA)",
+      "title_ids": [
+        "0004000000179800",
+        "0004000000179400",
+        "0004000000179600"
+      ],
+      "author": "Zoran501",
+      "author_url": "https://gamebanana.com/members/1735224",
+      "downloads": 20833,
+      "updated": "2022-10",
+      "source": {
+        "type": "gdrive",
+        "file_id": "1ny1XiVV0UKa_RyY4hvC_jICi6BxaxBjD"
+      },
+      "size": 1026237488,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Fates HD Character Artwork",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/351105",
+      "notes": "HD character artwork, including the amiibo characters. One part of the Combined HD Pack, made for the USA version.",
+      "verified": true
+    },
+    {
+      "id": "fates-hd-combined-face-alpha",
+      "name": "Combined HD Pack: Face and Alpha Textures",
+      "title": "Fire Emblem Fates (USA)",
+      "title_ids": [
+        "0004000000179800",
+        "0004000000179400",
+        "0004000000179600"
+      ],
+      "author": "Zoran501",
+      "author_url": "https://gamebanana.com/members/1735224",
+      "downloads": 20833,
+      "updated": "2022-10",
+      "source": {
+        "type": "gdrive",
+        "file_id": "1Wrfr1YDPmZQWtPQwkli1Z_bCWacZPL7K"
+      },
+      "size": 583635161,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Fates HD Face and Alpha Textures",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/351105",
+      "notes": "HD faces and alpha textures. One part of the Combined HD Pack, made for the USA version.",
+      "verified": true
+    },
+    {
+      "id": "fates-hd-combined-map-floors",
+      "name": "Combined HD Pack: Map Floors",
+      "title": "Fire Emblem Fates (USA)",
+      "title_ids": [
+        "0004000000179800",
+        "0004000000179400",
+        "0004000000179600"
+      ],
+      "author": "Zoran501",
+      "author_url": "https://gamebanana.com/members/1735224",
+      "downloads": 20833,
+      "updated": "2022-10",
+      "source": {
+        "type": "gdrive",
+        "file_id": "1BkmhoO1m8ymBFQ0n0ZIkZAU5sAcAxjZe"
+      },
+      "size": 2509938054,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Fates HD Map Floors",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/351105",
+      "notes": "HD map floor textures. One part of the Combined HD Pack, made for the USA version.",
+      "verified": true
+    },
+    {
+      "id": "fates-hd-combined-my-room",
+      "name": "Combined HD Pack: My Room Characters",
+      "title": "Fire Emblem Fates (USA)",
+      "title_ids": [
+        "0004000000179800",
+        "0004000000179400",
+        "0004000000179600"
+      ],
+      "author": "Zoran501",
+      "author_url": "https://gamebanana.com/members/1735224",
+      "downloads": 20833,
+      "updated": "2022-10",
+      "source": {
+        "type": "gdrive",
+        "file_id": "1r3lF_tv4ypfeEnRjoWJAD3gQsxB-fcvI"
+      },
+      "size": 114364027,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Fates HD My Room Characters",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/351105",
+      "notes": "HD My Room character textures. One part of the Combined HD Pack, made for the USA version.",
+      "verified": true
+    },
+    {
+      "id": "fates-hd-combined-other",
+      "name": "Combined HD Pack: Other",
+      "title": "Fire Emblem Fates (USA)",
+      "title_ids": [
+        "0004000000179800",
+        "0004000000179400",
+        "0004000000179600"
+      ],
+      "author": "Zoran501",
+      "author_url": "https://gamebanana.com/members/1735224",
+      "downloads": 20833,
+      "updated": "2022-10",
+      "source": {
+        "type": "gdrive",
+        "file_id": "1ONVqDdUUZOk80N2Z8OzDmG9b_oSXc7pZ"
+      },
+      "size": 757255405,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Fates HD Other",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/351105",
+      "notes": "The remaining HD textures. One part of the Combined HD Pack, made for the USA version.",
+      "verified": true
+    },
+    {
+      "id": "fates-hd-combined-outfits",
+      "name": "Combined HD Pack: Outfits",
+      "title": "Fire Emblem Fates (USA)",
+      "title_ids": [
+        "0004000000179800",
+        "0004000000179400",
+        "0004000000179600"
+      ],
+      "author": "Zoran501",
+      "author_url": "https://gamebanana.com/members/1735224",
+      "downloads": 20833,
+      "updated": "2022-10",
+      "source": {
+        "type": "gdrive",
+        "file_id": "14_ftEnfA-ACG5QO3z_zAAD-BrKoSKt49"
+      },
+      "size": 299304378,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Fates HD Outfits",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/351105",
+      "notes": "HD outfit textures. One part of the Combined HD Pack, made for the USA version.",
+      "verified": true
+    },
+    {
+      "id": "fates-hd-additions",
+      "name": "Fates HD Additions",
+      "title": "Fire Emblem Fates (USA)",
+      "title_ids": [
+        "0004000000179800",
+        "0004000000179400",
+        "0004000000179600"
+      ],
+      "author": "L498",
+      "author_url": "https://gamebanana.com/members/2091373",
+      "downloads": 4721,
+      "updated": "2024-07",
+      "source": {
+        "type": "gamebanana",
+        "mod": 403826,
+        "file_pattern": "fates_hd_additions_*.zip"
+      },
+      "size": 243516186,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Fates HD Additions",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/403826",
+      "notes": "HD UI, icons and font that go on top of the Combined HD Pack, for the USA version.",
+      "verified": false
     }
   ]
 }
