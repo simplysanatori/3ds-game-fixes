@@ -2616,6 +2616,495 @@
       "homepage": "https://gamebanana.com/mods/250769",
       "notes": "A hand-drawn HD Master Sword and scabbard.",
       "verified": false
+    },
+    {
+      "id": "mm3d-original-fierce-deity",
+      "name": "Original Fierce Deity Coloring",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500"
+      ],
+      "author": "LochNessHamster",
+      "author_url": "https://gamebanana.com/members/1082848",
+      "downloads": 1269,
+      "updated": "2021-06",
+      "source": {
+        "type": "gamebanana",
+        "mod": 250764,
+        "file_pattern": "original_fierce_deity_v21_-_mm3d.zip"
+      },
+      "size": 2954889,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Original Fierce Deity Coloring",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/250764",
+      "notes": "Returns the Fierce Deity's colours to the original N64 look.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-classic-zora-link",
+      "name": "Classic Zora Link",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500"
+      ],
+      "author": "LochNessHamster",
+      "author_url": "https://gamebanana.com/members/1082848",
+      "downloads": 1118,
+      "updated": "2021-06",
+      "source": {
+        "type": "gamebanana",
+        "mod": 250765,
+        "file_pattern": "mm3d_-_classic_zora_link_21.zip"
+      },
+      "size": 4929899,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Classic Zora Link",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/250765",
+      "notes": "Gives Zora Link the classic N64 look.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-classic-deku-link",
+      "name": "Classic Deku Link",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500"
+      ],
+      "author": "LochNessHamster",
+      "author_url": "https://gamebanana.com/members/1082848",
+      "downloads": 1032,
+      "updated": "2021-06",
+      "source": {
+        "type": "gamebanana",
+        "mod": 250760,
+        "file_pattern": "mm3d_-_classic_deku_link_v11.zip"
+      },
+      "size": 1194900,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Classic Deku Link",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/250760",
+      "notes": "Gives Deku Link the classic N64 look.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-link-skin-pack",
+      "name": "Link Skin Pack",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500"
+      ],
+      "author": "Art-Does-Not-Compute",
+      "author_url": "https://gamebanana.com/members/1716642",
+      "downloads": 1600,
+      "updated": "2020-08",
+      "source": {
+        "type": "gamebanana",
+        "mod": 250763,
+        "file_pattern": "mm_textures_*.rar"
+      },
+      "size": 3427341,
+      "format": "rar",
+      "layout": "variants",
+      "folder": "Link Skin Pack",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/250763",
+      "notes": "Several looks for Link; each shows as its own pack.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-adult-link-gloves",
+      "name": "Gloves for Young Link",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500",
+        "0004000000125600"
+      ],
+      "author": "Darky57",
+      "author_url": "https://gamebanana.com/members/2745839",
+      "downloads": 1408,
+      "updated": "2023-08",
+      "source": {
+        "type": "gamebanana",
+        "mod": 462941,
+        "file_pattern": "adult_link_style_gloves_for_young_link.zip"
+      },
+      "size": 2341451,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Gloves for Young Link",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/462941",
+      "notes": "Gives Young Link gloves, with an adult-style outfit as a second option.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-fierce-deity-all-forms",
+      "name": "Fierce Deity All Forms",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500",
+        "0004000000125600"
+      ],
+      "author": "Darky57",
+      "author_url": "https://gamebanana.com/members/2745839",
+      "downloads": 1052,
+      "updated": "2023-09",
+      "source": {
+        "type": "gamebanana",
+        "mod": 468401,
+        "file_pattern": "fierce_deity_all_forms_*.zip"
+      },
+      "size": 3264174,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Fierce Deity All Forms",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/468401",
+      "notes": "Gives every transformation a Fierce Deity look.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-art-accurate-fairies",
+      "name": "Art-Accurate Fairies",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500",
+        "0004000000125600"
+      ],
+      "author": "Takeshre",
+      "author_url": "https://gamebanana.com/members/2184805",
+      "downloads": 1296,
+      "updated": "2023-01",
+      "source": {
+        "type": "gamebanana",
+        "mod": 391777,
+        "file_pattern": "art-accurate_fairies.zip"
+      },
+      "size": 61256,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Art-Accurate Fairies",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/391777",
+      "notes": "Redraws Tatl, Tael and the recovery fairies to match the official art.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-heros-clothes",
+      "name": "Hero's Clothes",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500",
+        "0004000000125600"
+      ],
+      "author": "ByTheEightDivines",
+      "author_url": "https://gamebanana.com/members/1722968",
+      "downloads": 1369,
+      "updated": "2020-04",
+      "source": {
+        "type": "gamebanana",
+        "mod": 250762,
+        "file_pattern": "heros_clothes_v2.rar"
+      },
+      "size": 3696917,
+      "format": "rar",
+      "layout": "single",
+      "folder": "Hero's Clothes",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/250762",
+      "notes": "A Kokiri-style outfit for Link with chainmail and gauntlets.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-mirror-shield-alternatives",
+      "name": "Mirror Shield Alternatives",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500",
+        "0004000000125600"
+      ],
+      "author": "Rikster",
+      "author_url": "https://gamebanana.com/members/1918817",
+      "downloads": 1106,
+      "updated": "2023-02",
+      "source": {
+        "type": "gamebanana",
+        "mod": 384697,
+        "file_pattern": "alternative_mirror_shields_v11.zip"
+      },
+      "size": 2454918,
+      "format": "zip",
+      "layout": "variants",
+      "folder": "Mirror Shield Alternatives",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/384697",
+      "notes": "Alternative looks for the Mirror Shield, including the Hero's Shield.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-mirror-shield-alternatives-lowres",
+      "name": "Mirror Shield Alternatives (Low-Res)",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500",
+        "0004000000125600"
+      ],
+      "author": "Rikster",
+      "author_url": "https://gamebanana.com/members/1918817",
+      "downloads": 1106,
+      "updated": "2023-02",
+      "source": {
+        "type": "gamebanana",
+        "mod": 384697,
+        "file_pattern": "alternative_mirror_shields_lowres_v11.zip"
+      },
+      "size": 61667,
+      "format": "zip",
+      "layout": "variants",
+      "folder": "Mirror Shield Alternatives (Low-Res)",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/384697",
+      "notes": "The same alternative Mirror Shield looks at low resolution.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-vanilla-brightness-tweaks",
+      "name": "Vanilla Brightness Tweaks",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500",
+        "0004000000125600"
+      ],
+      "author": "lmfaoman1217",
+      "author_url": "https://gamebanana.com/members/2812638",
+      "downloads": 954,
+      "updated": "2026-05",
+      "source": {
+        "type": "gamebanana",
+        "mod": 666038,
+        "file_pattern": "mm3d_vanilla_tweaks_*.zip"
+      },
+      "size": 41763490,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Vanilla Brightness Tweaks",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/666038",
+      "notes": "Darkens the overbright areas, with one folder per area so each can be turned off.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-prg-gui-3ds",
+      "name": "PRG GUI for Project Restoration (3DS)",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500",
+        "0004000000125600"
+      ],
+      "author": "PRG",
+      "author_url": "https://gamebanana.com/members/1317176",
+      "downloads": 872,
+      "updated": "2026-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 569069,
+        "file_pattern": "hud_3ds.zip"
+      },
+      "size": 2536852,
+      "format": "zip",
+      "layout": "single",
+      "folder": "PRG GUI for Project Restoration (3DS)",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/569069",
+      "notes": "Button prompts in the 3DS style for Project Restoration, which must be installed.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-prg-gui-switch",
+      "name": "PRG GUI for Project Restoration (Switch)",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500",
+        "0004000000125600"
+      ],
+      "author": "PRG",
+      "author_url": "https://gamebanana.com/members/1317176",
+      "downloads": 872,
+      "updated": "2026-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 569069,
+        "file_pattern": "hud_switch.zip"
+      },
+      "size": 2525301,
+      "format": "zip",
+      "layout": "single",
+      "folder": "PRG GUI for Project Restoration (Switch)",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/569069",
+      "notes": "Button prompts in the Switch style for Project Restoration, which must be installed.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-prg-gui-switch-color",
+      "name": "PRG GUI for Project Restoration (Switch (Color))",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500",
+        "0004000000125600"
+      ],
+      "author": "PRG",
+      "author_url": "https://gamebanana.com/members/1317176",
+      "downloads": 872,
+      "updated": "2026-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 569069,
+        "file_pattern": "hud_switch_color.zip"
+      },
+      "size": 2532998,
+      "format": "zip",
+      "layout": "single",
+      "folder": "PRG GUI for Project Restoration (Switch (Color))",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/569069",
+      "notes": "Button prompts in the Switch (Color) style for Project Restoration, which must be installed.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-prg-gui-xbox-default",
+      "name": "PRG GUI for Project Restoration (Xbox)",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500",
+        "0004000000125600"
+      ],
+      "author": "PRG",
+      "author_url": "https://gamebanana.com/members/1317176",
+      "downloads": 872,
+      "updated": "2026-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 569069,
+        "file_pattern": "hud_xbox_default.zip"
+      },
+      "size": 2632149,
+      "format": "zip",
+      "layout": "single",
+      "folder": "PRG GUI for Project Restoration (Xbox)",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/569069",
+      "notes": "Button prompts in the Xbox style for Project Restoration, which must be installed.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-prg-gui-xbox-color",
+      "name": "PRG GUI for Project Restoration (Xbox (Color))",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500",
+        "0004000000125600"
+      ],
+      "author": "PRG",
+      "author_url": "https://gamebanana.com/members/1317176",
+      "downloads": 872,
+      "updated": "2026-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 569069,
+        "file_pattern": "hud_xbox_color.zip"
+      },
+      "size": 2637935,
+      "format": "zip",
+      "layout": "single",
+      "folder": "PRG GUI for Project Restoration (Xbox (Color))",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/569069",
+      "notes": "Button prompts in the Xbox (Color) style for Project Restoration, which must be installed.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-prg-gui-deck",
+      "name": "PRG GUI for Project Restoration (Steam Deck)",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500",
+        "0004000000125600"
+      ],
+      "author": "PRG",
+      "author_url": "https://gamebanana.com/members/1317176",
+      "downloads": 872,
+      "updated": "2026-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 569069,
+        "file_pattern": "hud_deck.zip"
+      },
+      "size": 2632123,
+      "format": "zip",
+      "layout": "single",
+      "folder": "PRG GUI for Project Restoration (Steam Deck)",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/569069",
+      "notes": "Button prompts in the Steam Deck style for Project Restoration, which must be installed.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-prg-gui-ps",
+      "name": "PRG GUI for Project Restoration (PlayStation)",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500",
+        "0004000000125600"
+      ],
+      "author": "PRG",
+      "author_url": "https://gamebanana.com/members/1317176",
+      "downloads": 872,
+      "updated": "2026-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 569069,
+        "file_pattern": "hud_ps.zip"
+      },
+      "size": 2639713,
+      "format": "zip",
+      "layout": "single",
+      "folder": "PRG GUI for Project Restoration (PlayStation)",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/569069",
+      "notes": "Button prompts in the PlayStation style for Project Restoration, which must be installed.",
+      "verified": false
+    },
+    {
+      "id": "mm3d-hd-texture-pack-darmani",
+      "name": "HD Texture Pack (Deprecated)",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "title_ids": [
+        "0004000000125500",
+        "0004000000125600"
+      ],
+      "author": "Darmani",
+      "author_url": "https://gamebanana.com/members/2435860",
+      "downloads": 2755,
+      "updated": "2024-08",
+      "source": {
+        "type": "gdrive",
+        "file_id": "1uz3R9wCP5hHXvvdA35V-1nw1lV7EFwDE"
+      },
+      "size": 4233221775,
+      "format": "zip",
+      "layout": "single",
+      "folder": "MM3D HD Darmani",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/422313",
+      "notes": "The author has deprecated this full HD pack and calls it glitchy.",
+      "verified": true
     }
   ]
 }
