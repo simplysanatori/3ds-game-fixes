@@ -3105,6 +3105,111 @@
       "homepage": "https://gamebanana.com/mods/422313",
       "notes": "The author has deprecated this full HD pack and calls it glitchy.",
       "verified": true
+    },
+    {
+      "id": "pokemon-xy-faithful-hd-types",
+      "name": "Faithful HD Pokemon Types",
+      "title": "Pokemon X / Pokemon Y",
+      "title_ids": [
+        "0004000000055D00",
+        "0004000000055E00"
+      ],
+      "author": "MetalTxus",
+      "author_url": "https://gamebanana.com/members/2566769",
+      "downloads": 879,
+      "updated": "2025-11",
+      "source": {
+        "type": "gamebanana",
+        "mod": 633609,
+        "file_pattern": "pokemon_types_xy_*.zip"
+      },
+      "size": 157869,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Faithful HD Pokemon Types",
+      "layer_on": "pokemon-xy-5x-redrawn-ui",
+      "licence": "CC BY-NC 4.0",
+      "homepage": "https://gamebanana.com/mods/633609",
+      "notes": "Redraws the type and status icons at 5x on a 5-pixel grid; it goes on top of the 5X Redrawn UI.",
+      "verified": false
+    },
+    {
+      "id": "pokemon-xy-modern-items-sprites",
+      "name": "Modern Items Sprites",
+      "title": "Pokemon X / Pokemon Y",
+      "title_ids": [
+        "0004000000055D00",
+        "0004000000055E00"
+      ],
+      "author": "stingflyer",
+      "author_url": "https://gamebanana.com/members/2457337",
+      "downloads": 606,
+      "updated": "2025-11",
+      "source": {
+        "type": "gamebanana",
+        "mod": 634399,
+        "file_pattern": "items_sprites_*.zip"
+      },
+      "size": 10633075,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Modern Items Sprites",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/634399",
+      "notes": "Replaces the item sprites in the bag with the modern Gen 9 art, plus the Global Link sprites for items not redrawn.",
+      "verified": false
+    },
+    {
+      "id": "pokemon-xy-shadow-ho-oh",
+      "name": "Shadow Ho-Oh",
+      "title": "Pokemon X / Pokemon Y",
+      "title_ids": [
+        "0004000000055D00",
+        "0004000000055E00"
+      ],
+      "author": "Lewtwo",
+      "author_url": "https://gamebanana.com/members/1750133",
+      "downloads": 406,
+      "updated": "2020-09",
+      "source": {
+        "type": "gamebanana",
+        "mod": 251638,
+        "file_pattern": "004_-_shadow_ho-oh_*.zip"
+      },
+      "size": 6069938,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Shadow Ho-Oh",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/251638",
+      "notes": "A Shadow Lugia-style palette swap for Ho-Oh, made for all the 3DS Pokemon games.",
+      "verified": false
+    },
+    {
+      "id": "pokemon-xy-better-chingling-chimecho-shiny",
+      "name": "Better Chingling and Chimecho Shiny",
+      "title": "Pokemon X / Pokemon Y",
+      "title_ids": [
+        "0004000000055D00",
+        "0004000000055E00"
+      ],
+      "author": "eeveelover64",
+      "author_url": "https://gamebanana.com/members/2078266",
+      "downloads": 94,
+      "updated": "2025-08",
+      "source": {
+        "type": "gamebanana",
+        "mod": 610984,
+        "file_pattern": "better_chingling_chimecho_shiny_citra_edition_.zip"
+      },
+      "size": 47317,
+      "format": "zip",
+      "layout": "single",
+      "folder": "Better Chingling and Chimecho Shiny",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/610984",
+      "notes": "Gives the shiny Chingling and Chimecho a palette that is easier to spot; this is the emulator build.",
+      "verified": false
     }
   ]
 }

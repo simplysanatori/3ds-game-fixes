@@ -9030,6 +9030,131 @@
         ]
       },
       "notes": "Adds a setting for when voice select lines play, and replaces the game code, so it clashes with other code patches."
+    },
+    {
+      "id": "pokemon-x-shiny-lock-removal-v15",
+      "name": "Shiny Lock Removal (Update 1.5)",
+      "title": "Pokemon X",
+      "title_ids": [
+        "0004000000055D00"
+      ],
+      "author": "itsskinnymems",
+      "author_url": "https://gamebanana.com/members/2669985",
+      "licence": "CC BY-NC",
+      "homepage": "https://gamebanana.com/mods/513460",
+      "verified": false,
+      "downloads": 1332,
+      "updated": "2025-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 513460,
+        "file_pattern": "pok_mon_x_15_-_citra_*.rar"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "exefs/",
+            "to": "exefs/"
+          },
+          {
+            "from": "romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Removes the shiny lock from the static and gift Pokemon, only for game update 1.5; other versions crash, and it replaces other code patches."
+    },
+    {
+      "id": "pokemon-y-shiny-lock-removal-v15",
+      "name": "Shiny Lock Removal (Update 1.5)",
+      "title": "Pokemon Y",
+      "title_ids": [
+        "0004000000055E00"
+      ],
+      "author": "itsskinnymems",
+      "author_url": "https://gamebanana.com/members/2669985",
+      "licence": "CC BY-NC",
+      "homepage": "https://gamebanana.com/mods/513460",
+      "verified": false,
+      "downloads": 1332,
+      "updated": "2025-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 513460,
+        "file_pattern": "pok_mon_y_15_-_citra_*.rar"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "exefs/",
+            "to": "exefs/"
+          },
+          {
+            "from": "romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Removes the shiny lock from the static and gift Pokemon, only for game update 1.5; other versions crash, and it replaces other code patches."
+    },
+    {
+      "id": "pokemon-xy-clothing-mod",
+      "name": "Clothing Mod",
+      "title": "Pokemon X / Pokemon Y",
+      "title_ids": [
+        "0004000000055D00",
+        "0004000000055E00"
+      ],
+      "author": "Ebi_tempura",
+      "author_url": "https://gamebanana.com/members/3736196",
+      "licence": "CC BY-NC-SA 4.0",
+      "homepage": "https://gamebanana.com/mods/610374",
+      "verified": false,
+      "downloads": 307,
+      "updated": "2025-08",
+      "source": {
+        "type": "gamebanana",
+        "mod": 610374,
+        "file_pattern": "mod_*.rar"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "*/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Replaces the female protagonist's short parka with a hoodie and her scarf tops with shirts."
+    },
+    {
+      "id": "pokemon-x-pumpkaboo-dress",
+      "name": "Pumpkaboo Dress",
+      "title": "Pokemon X",
+      "title_ids": [
+        "0004000000055D00"
+      ],
+      "author": "momoslime",
+      "author_url": "https://gamebanana.com/members/2376191",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/549873",
+      "verified": false,
+      "downloads": 387,
+      "updated": "2024-10",
+      "source": {
+        "type": "gamebanana",
+        "mod": 549873,
+        "file_pattern": "pumpkaboo_dress_*.rar"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "*/{tid}/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Dresses Pumpkaboo up in a new outfit."
     }
   ],
   "versions": [
