@@ -3210,6 +3210,33 @@
       "homepage": "https://gamebanana.com/mods/610984",
       "notes": "Gives the shiny Chingling and Chimecho a palette that is easier to spot; this is the emulator build.",
       "verified": false
+    },
+    {
+      "id": "oot3d-4k-ui-translated-ps5-layout",
+      "name": "4K UI (Translated, PS5 Layout)",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500",
+        "0004000000033600",
+        "0004000000033400"
+      ],
+      "author": "Yozzui",
+      "author_url": "https://gamebanana.com/members/3474050",
+      "downloads": 1730,
+      "updated": "2026-10",
+      "source": {
+        "type": "gamebanana",
+        "mod": 725250,
+        "file_pattern": "ui_ocarina_of_time_3d.zip"
+      },
+      "size": 453218817,
+      "format": "zip",
+      "layout": "variants",
+      "folder": "4K UI (Translated, PS5 Layout)",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/725250",
+      "notes": "A 4K interface in German, Italian, Japanese and Spanish with PS5 button prompts; each language is a part.",
+      "verified": false
     }
   ]
 }

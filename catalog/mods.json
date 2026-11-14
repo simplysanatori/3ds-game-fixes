@@ -10644,6 +10644,211 @@
         ]
       },
       "notes": "R.O.B. as a driver."
+    },
+    {
+      "id": "oot3d-n64-dialogue-font-us",
+      "name": "N64 Dialogue Font",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500"
+      ],
+      "author": "Takeshre",
+      "author_url": "https://gamebanana.com/members/2184805",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/502283",
+      "verified": false,
+      "downloads": 2004,
+      "updated": "2024-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 502283,
+        "file_pattern": "n64_dialogue_font_na_.7z"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "{tid}/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Uses the Nintendo 64 dialogue font (North America)."
+    },
+    {
+      "id": "oot3d-n64-dialogue-font-eu",
+      "name": "N64 Dialogue Font",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033600"
+      ],
+      "author": "Takeshre",
+      "author_url": "https://gamebanana.com/members/2184805",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/502283",
+      "verified": false,
+      "downloads": 2004,
+      "updated": "2024-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 502283,
+        "file_pattern": "n64_dialogue_font_pal_.7z"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "{tid}/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Uses the Nintendo 64 dialogue font (Europe)."
+    },
+    {
+      "id": "oot3d-legend-of-shaggy",
+      "name": "The Legend of Shaggy",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500",
+        "0004000000033600",
+        "0004000000033400"
+      ],
+      "author": "SariaOfTheKokiri",
+      "author_url": "https://gamebanana.com/members/1701022",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/399573",
+      "verified": false,
+      "downloads": 1807,
+      "updated": "2022-10",
+      "source": {
+        "type": "gamebanana",
+        "mod": 399573,
+        "file_pattern": "the_legend_of_shaggy_ocarina_of_time_3d_v11.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Replaces adult Link with Shaggy."
+    },
+    {
+      "id": "oot3d-heros-shade-adult-link",
+      "name": "Hero's Shade as Adult Link",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500"
+      ],
+      "author": "Rikster",
+      "author_url": "https://gamebanana.com/members/1918817",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/486751",
+      "verified": false,
+      "downloads": 2190,
+      "updated": "2023-12",
+      "source": {
+        "type": "gamebanana",
+        "mod": 486751,
+        "file_pattern": "hero_s_shade_*.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Hero's Shade/mods/{tid}/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Replaces adult Link with the Hero's Shade."
+    },
+    {
+      "id": "oot3d-majoras-mask-link-deity",
+      "name": "Play as Majora's Mask Link",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500"
+      ],
+      "author": "skilarbabcock",
+      "author_url": "https://gamebanana.com/members/1672388",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/485964",
+      "verified": false,
+      "downloads": 3525,
+      "updated": "2023-12",
+      "source": {
+        "type": "gamebanana",
+        "mod": 485964,
+        "file_pattern": "deityog.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "DeityOG/{tid}/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Fierce Deity Link as the adult Link model."
+    },
+    {
+      "id": "oot3d-majoras-mask-link-deity-back-weapons",
+      "name": "Play as Majora's Mask Link (Back Weapons)",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500"
+      ],
+      "author": "skilarbabcock",
+      "author_url": "https://gamebanana.com/members/1672388",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/485964",
+      "verified": false,
+      "downloads": 3525,
+      "updated": "2023-12",
+      "source": {
+        "type": "gamebanana",
+        "mod": 485964,
+        "file_pattern": "deitywithbackweapons.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "DeityWithBackWeapons/{tid}/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Fierce Deity Link with weapons on his back."
+    },
+    {
+      "id": "oot3d-majoras-mask-link-deity-adult-alt",
+      "name": "Play as Majora's Mask Link (Adult Alt)",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "title_ids": [
+        "0004000000033500"
+      ],
+      "author": "skilarbabcock",
+      "author_url": "https://gamebanana.com/members/1672388",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/485964",
+      "verified": false,
+      "downloads": 3525,
+      "updated": "2023-12",
+      "source": {
+        "type": "gamebanana",
+        "mod": 485964,
+        "file_pattern": "deityadultlinkalt.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "DeityAdultLinkAlt/{tid}/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Fierce Deity Link, adult alternative."
     }
   ],
   "versions": [
