@@ -3237,6 +3237,32 @@
       "homepage": "https://gamebanana.com/mods/725250",
       "notes": "A 4K interface in German, Italian, Japanese and Spanish with PS5 button prompts; each language is a part.",
       "verified": false
+    },
+    {
+      "id": "pokemon-xy-crimson-shiny-greninja",
+      "name": "Crimson Shiny Greninja",
+      "title": "Pokemon X / Pokemon Y",
+      "title_ids": [
+        "0004000000055D00",
+        "0004000000055E00"
+      ],
+      "author": "DuoForce",
+      "author_url": "https://gamebanana.com/members/1557349",
+      "downloads": 254,
+      "updated": "2023-11",
+      "source": {
+        "type": "gamebanana",
+        "mod": 479095,
+        "file_pattern": "crimson_shiny_greninja.7z"
+      },
+      "size": 37907,
+      "format": "7z",
+      "layout": "single",
+      "folder": "Crimson Shiny Greninja",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/479095",
+      "notes": "Gives the shiny Greninja a crimson palette.",
+      "verified": false
     }
   ]
 }

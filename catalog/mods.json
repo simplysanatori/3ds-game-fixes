@@ -10969,6 +10969,154 @@
         ]
       },
       "notes": "Aim with the right stick (C-Stick) while moving with the Circle Pad; touch still wins while touched. Replaces the game's code, so it clashes with other code patches, including the other C-Stick patch."
+    },
+    {
+      "id": "pokemon-xy-za-sound-pack-x",
+      "name": "ZA Sound Pack",
+      "title": "Pokemon X",
+      "title_ids": [
+        "0004000000055D00"
+      ],
+      "author": "PokeSimo13",
+      "author_url": "https://gamebanana.com/members/5786538",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/92265",
+      "verified": false,
+      "downloads": 119,
+      "updated": "2026-08",
+      "source": {
+        "type": "gamebanana",
+        "mod": 92265,
+        "file_pattern": "pokemon_za_sound_pack_*.rar"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "000400000055D00/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Replaces the sound effects with ones from Legends: Z-A."
+    },
+    {
+      "id": "pokemon-xy-za-sound-pack-y",
+      "name": "ZA Sound Pack",
+      "title": "Pokemon Y",
+      "title_ids": [
+        "0004000000055E00"
+      ],
+      "author": "PokeSimo13",
+      "author_url": "https://gamebanana.com/members/5786538",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/92265",
+      "verified": false,
+      "downloads": 119,
+      "updated": "2026-08",
+      "source": {
+        "type": "gamebanana",
+        "mod": 92265,
+        "file_pattern": "pokemon_za_sound_pack_*.rar"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "000400000055E00/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Replaces the sound effects with ones from Legends: Z-A."
+    },
+    {
+      "id": "pokemon-y-lysandre-theme-usum",
+      "name": "Lysandre's Theme (USUM)",
+      "title": "Pokemon Y",
+      "title_ids": [
+        "0004000000055E00"
+      ],
+      "author": "DeepWeeb",
+      "author_url": "https://gamebanana.com/members/1773435",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/51173",
+      "verified": false,
+      "downloads": 266,
+      "updated": "2021-01",
+      "source": {
+        "type": "gamebanana",
+        "mod": 51173,
+        "file_pattern": "lysmusmod_*.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "LysandreMusicMod/{tid}/romFS/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Uses the Ultra Sun and Moon version of Lysandre's theme."
+    },
+    {
+      "id": "pokemon-y-feminine-mega-mewtwo-y",
+      "name": "Feminine Mega Mewtwo Y",
+      "title": "Pokemon Y",
+      "title_ids": [
+        "0004000000055E00"
+      ],
+      "author": "Ghost1971185",
+      "author_url": "https://gamebanana.com/members/1971185",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/426774",
+      "verified": false,
+      "downloads": 1043,
+      "updated": "2023-02",
+      "source": {
+        "type": "gamebanana",
+        "mod": 426774,
+        "file_pattern": "feminine_mewtwo_y.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Gives Mega Mewtwo Y a feminine look. The download is about 900 MB.",
+      "size": 895998752
+    },
+    {
+      "id": "pokemon-xy-feminine-fennekin-braixen",
+      "name": "Feminine Fennekin and Braixen",
+      "title": "Pokemon X / Pokemon Y",
+      "title_ids": [
+        "0004000000055D00",
+        "0004000000055E00"
+      ],
+      "author": "Ghost1971185",
+      "author_url": "https://gamebanana.com/members/1971185",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/421459",
+      "verified": false,
+      "downloads": 942,
+      "updated": "2023-01",
+      "source": {
+        "type": "gamebanana",
+        "mod": 421459,
+        "file_pattern": "fem_shiny_fennekin_braixen.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Gives Fennekin and Braixen a feminine look. The download is about 900 MB.",
+      "size": 895996604
     }
   ],
   "versions": [
