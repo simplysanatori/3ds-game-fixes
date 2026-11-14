@@ -9917,6 +9917,504 @@
         ]
       },
       "notes": "Improves the amiibo content (Europe)."
+    },
+    {
+      "id": "awakening-unit-select-voice-us",
+      "name": "Unit Select Voice",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "00040000000A0500"
+      ],
+      "author": "Moonling",
+      "author_url": "https://gamebanana.com/members/1698465",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/53962",
+      "verified": false,
+      "downloads": 5620,
+      "updated": "2022-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 53962,
+        "file_pattern": "awk_voiceselect_us.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "AWK_VoiceSelect_US/code.ips",
+            "to": "code.ips"
+          },
+          {
+            "from": "AWK_VoiceSelect_US/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Lets you pick which unit speaks on the unit select screen. Replaces other code patches for the game."
+    },
+    {
+      "id": "awakening-dlc-fix-us",
+      "name": "DLC Fix",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "00040000000A0500"
+      ],
+      "author": "Moonling",
+      "author_url": "https://gamebanana.com/members/1698465",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/53961",
+      "verified": false,
+      "downloads": 1657,
+      "updated": "2020-11",
+      "source": {
+        "type": "gamebanana",
+        "mod": 53961,
+        "file_pattern": "awk_dlc_patch_us.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "code.ips",
+            "to": "code.ips"
+          }
+        ]
+      },
+      "notes": "A code patch for the downloadable content. Replaces other code patches for the game."
+    },
+    {
+      "id": "awakening-unit-select-voice-eu",
+      "name": "Unit Select Voice",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "000400000009F100"
+      ],
+      "author": "Moonling",
+      "author_url": "https://gamebanana.com/members/1698465",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/53962",
+      "verified": false,
+      "downloads": 5620,
+      "updated": "2022-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 53962,
+        "file_pattern": "awk_voiceselect_eu.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "AWK_VoiceSelect_EU/code.ips",
+            "to": "code.ips"
+          },
+          {
+            "from": "AWK_VoiceSelect_EU/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Lets you pick which unit speaks on the unit select screen. Replaces other code patches for the game."
+    },
+    {
+      "id": "awakening-dlc-fix-eu",
+      "name": "DLC Fix",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "000400000009F100"
+      ],
+      "author": "Moonling",
+      "author_url": "https://gamebanana.com/members/1698465",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/53961",
+      "verified": false,
+      "downloads": 1657,
+      "updated": "2020-11",
+      "source": {
+        "type": "gamebanana",
+        "mod": 53961,
+        "file_pattern": "awk_dlc_patch_eu.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "code.ips",
+            "to": "code.ips"
+          }
+        ]
+      },
+      "notes": "A code patch for the downloadable content. Replaces other code patches for the game."
+    },
+    {
+      "id": "awakening-unit-select-voice-jp",
+      "name": "Unit Select Voice",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "0004000000072000"
+      ],
+      "author": "Moonling",
+      "author_url": "https://gamebanana.com/members/1698465",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/53962",
+      "verified": false,
+      "downloads": 5620,
+      "updated": "2022-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 53962,
+        "file_pattern": "awk_voiceselect_jp.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "AWK_VoiceSelect_JP/code.ips",
+            "to": "code.ips"
+          },
+          {
+            "from": "AWK_VoiceSelect_JP/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Lets you pick which unit speaks on the unit select screen. Replaces other code patches for the game."
+    },
+    {
+      "id": "awakening-dlc-fix-jp",
+      "name": "DLC Fix",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "0004000000072000"
+      ],
+      "author": "Moonling",
+      "author_url": "https://gamebanana.com/members/1698465",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/53961",
+      "verified": false,
+      "downloads": 1657,
+      "updated": "2020-11",
+      "source": {
+        "type": "gamebanana",
+        "mod": 53961,
+        "file_pattern": "awk_dlc_patch_jp.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "code.ips",
+            "to": "code.ips"
+          }
+        ]
+      },
+      "notes": "A code patch for the downloadable content. Replaces other code patches for the game."
+    },
+    {
+      "id": "awakening-faithful-voice-select",
+      "name": "Faithful Voice Select",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "00040000000A0500",
+        "000400000009F100",
+        "0004000000072000"
+      ],
+      "author": "BooLean1",
+      "author_url": "https://gamebanana.com/members/2066676",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/367250",
+      "verified": false,
+      "downloads": 5579,
+      "updated": "2022-05",
+      "source": {
+        "type": "gamebanana",
+        "mod": 367250,
+        "file_pattern": "awakeningvoiceselect.7z"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "AwakeningVoiceSelect/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "A voice select setup that stays close to the original game."
+    },
+    {
+      "id": "awakening-tikis-map-fix",
+      "name": "Tiki's Map Fix",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "00040000000A0500",
+        "000400000009F100",
+        "0004000000072000"
+      ],
+      "author": "brain_alien",
+      "author_url": "https://gamebanana.com/members/1718863",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/490913",
+      "verified": false,
+      "downloads": 4316,
+      "updated": "2024-01",
+      "source": {
+        "type": "gamebanana",
+        "mod": 490913,
+        "file_pattern": "tiki_s_map_fix.rar"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Fixes the map graphics on emulators."
+    },
+    {
+      "id": "awakening-lucina-recruitment-us",
+      "name": "Lucina Recruitment",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "00040000000A0500"
+      ],
+      "author": "varNotFound",
+      "author_url": "https://gamebanana.com/members/2140111",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/399460",
+      "verified": false,
+      "downloads": 2495,
+      "updated": "2022-10",
+      "source": {
+        "type": "gamebanana",
+        "mod": 399460,
+        "file_pattern": "na_*.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "NA/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Changes how Lucina is recruited (North America)."
+    },
+    {
+      "id": "awakening-lucina-recruitment-eu",
+      "name": "Lucina Recruitment",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "000400000009F100"
+      ],
+      "author": "varNotFound",
+      "author_url": "https://gamebanana.com/members/2140111",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/399460",
+      "verified": false,
+      "downloads": 2495,
+      "updated": "2022-10",
+      "source": {
+        "type": "gamebanana",
+        "mod": 399460,
+        "file_pattern": "eu_*.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "EU/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Changes how Lucina is recruited (Europe)."
+    },
+    {
+      "id": "awakening-unlimited-weapons",
+      "name": "Unlimited Weapons",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "00040000000A0500",
+        "000400000009F100",
+        "0004000000072000"
+      ],
+      "author": "Venus_Pisces",
+      "author_url": "https://gamebanana.com/members/4210267",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/578537",
+      "verified": false,
+      "downloads": 1474,
+      "updated": "2025-10",
+      "source": {
+        "type": "gamebanana",
+        "mod": 578537,
+        "file_pattern": "unlimited_weapons_d4393.rar"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Infinite Weapons/data/",
+            "to": "romfs/data/"
+          }
+        ]
+      },
+      "notes": "Weapons no longer break."
+    },
+    {
+      "id": "awakening-gender-lock-removal-a",
+      "name": "Gender-Lock Removal v2.0 (Version A)",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "00040000000A0500",
+        "000400000009F100",
+        "0004000000072000"
+      ],
+      "author": "LJ_Reflet",
+      "author_url": "https://gamebanana.com/members/1976044",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/365214",
+      "verified": false,
+      "downloads": 3628,
+      "updated": "2022-11",
+      "source": {
+        "type": "gamebanana",
+        "mod": 365214,
+        "file_pattern": "awakening_glf_v20_version_a__*.7z"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Awakening GLF v2.0 (Version A)/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Removes the gender locks on classes, version A."
+    },
+    {
+      "id": "awakening-gender-lock-removal-b",
+      "name": "Gender-Lock Removal v2.0 (Version B)",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "00040000000A0500",
+        "000400000009F100",
+        "0004000000072000"
+      ],
+      "author": "LJ_Reflet",
+      "author_url": "https://gamebanana.com/members/1976044",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/365214",
+      "verified": false,
+      "downloads": 3628,
+      "updated": "2022-11",
+      "source": {
+        "type": "gamebanana",
+        "mod": 365214,
+        "file_pattern": "awakening_glf_v20_version_b__*.7z"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Awakening GLF v2.0 (Version B)/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Removes the gender locks on classes, version B."
+    },
+    {
+      "id": "awakening-twin-morgans",
+      "name": "Twin Morgans",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "00040000000A0500",
+        "000400000009F100",
+        "0004000000072000"
+      ],
+      "author": "Heritor",
+      "author_url": "https://gamebanana.com/members/2026221",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/425548",
+      "verified": false,
+      "downloads": 1581,
+      "updated": "2023-10",
+      "source": {
+        "type": "gamebanana",
+        "mod": 425548,
+        "file_pattern": "twin_morgans_*.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Twin Morgans/Twin Morgans romfs/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Adds a second Morgan."
+    },
+    {
+      "id": "awakening-thabes-overwritten-us",
+      "name": "Thabes Overwritten",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "00040000000A0500"
+      ],
+      "author": "Heritor",
+      "author_url": "https://gamebanana.com/members/2026221",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/555858",
+      "verified": false,
+      "downloads": 11743,
+      "updated": "2026-06",
+      "source": {
+        "type": "gamebanana",
+        "mod": 555858,
+        "file_pattern": "thabes_overwritten_v013.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Thabes Overwritten v0.1.3/Thabes Overwritten romfs/romfs/",
+            "to": "romfs/"
+          },
+          {
+            "from": "Thabes Overwritten v0.1.3/Thabes Overwritten romfs/code.ips",
+            "to": "code.ips"
+          }
+        ]
+      },
+      "notes": "A content overhaul of the Thabes chapters (North America). Replaces other code patches for the game.",
+      "size": 143073456
+    },
+    {
+      "id": "awakening-thabes-overwritten-eu",
+      "name": "Thabes Overwritten",
+      "title": "Fire Emblem Awakening",
+      "title_ids": [
+        "000400000009F100"
+      ],
+      "author": "Heritor",
+      "author_url": "https://gamebanana.com/members/2026221",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/555858",
+      "verified": false,
+      "downloads": 11743,
+      "updated": "2026-06",
+      "source": {
+        "type": "gamebanana",
+        "mod": 555858,
+        "file_pattern": "thabes_overwritten_v013.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Thabes Overwritten v0.1.3/Thabes Overwritten romfs/romfs/",
+            "to": "romfs/"
+          },
+          {
+            "from": "Thabes Overwritten v0.1.3/Thabes Overwritten romfs/EU .ips/code.ips",
+            "to": "code.ips"
+          }
+        ]
+      },
+      "notes": "A content overhaul of the Thabes chapters (Europe). Replaces other code patches for the game.",
+      "size": 143073456
     }
   ],
   "versions": [
