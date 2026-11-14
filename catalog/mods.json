@@ -1008,7 +1008,7 @@
           }
         ]
       },
-      "notes": "Lifts the same-sex marriage restriction on paralogues, for the Special Edition, Birthright and Conquest in all three regions. It is a code patch, so it replaces any other code patch for the game. Unofficial Gay Fates already includes this on the North America and Europe Special Edition."
+      "notes": "Lifts the same-sex marriage restriction on paralogues, for the Special Edition, Birthright and Conquest in all three regions. It is a code patch, so it replaces any other code patch for the game."
     },
     {
       "id": "fates-icon-project",
@@ -1045,7 +1045,7 @@
           }
         ]
       },
-      "notes": "Gives every item its own hand-made icon, over 200 in all. This is the plain version; the page does not name a region. It replaces GameData.bin.lz, so it clashes with Unofficial Gay Fates, whose own icon packs on the page are not installed."
+      "notes": "Gives every item its own hand-made icon, over 200 in all. This is the plain version; the page does not name a region. It replaces GameData.bin.lz, so it clashes with other mods that replace that file."
     },
     {
       "id": "fates-icon-project-weapon-triangle",
@@ -1082,44 +1082,7 @@
           }
         ]
       },
-      "notes": "The Fates Icon Project with a weapon triangle background behind each icon. The page does not name a region. It replaces GameData.bin.lz, so it clashes with Unofficial Gay Fates and with the plain icon version."
-    },
-    {
-      "id": "fates-unofficial-gay-fates",
-      "name": "Unofficial Gay Fates",
-      "title": "Fire Emblem Fates",
-      "title_ids": [
-        "0004000000179800",
-        "000400000017A800",
-        "000400000012DE00",
-        "0004000000179400",
-        "0004000000179600",
-        "0004000000179500",
-        "0004000000179700",
-        "000400000012DC00",
-        "000400000012DD00"
-      ],
-      "author": "Milfnuggy",
-      "author_url": "https://gamebanana.com/members/1683519",
-      "licence": "CC BY-NC-ND 4.0",
-      "homepage": "https://gamebanana.com/mods/51420",
-      "verified": false,
-      "downloads": 57852,
-      "updated": "2026-07",
-      "source": {
-        "type": "gamebanana",
-        "mod": 51420,
-        "file_pattern": "unofficial_gay_fates_*.7z"
-      },
-      "install": {
-        "rules": [
-          {
-            "from": "*/Unofficial Gay Fates/{tid}/",
-            "to": ""
-          }
-        ]
-      },
-      "notes": "A standalone fan expansion with about a thousand same-sex and platonic supports and custom endings, for every Fates edition. On the Special Edition in North America and Europe it ships its own code patch, so it replaces other code patches; the other editions need the Paralogue Unlocker. On a Europe copy in another language than English, rename romfs/m/@U to your language letter. The optional add-ons are not installed."
+      "notes": "The Fates Icon Project with a weapon triangle background behind each icon. The page does not name a region. It replaces GameData.bin.lz, so it clashes with other mods that replace that file and with the plain icon version."
     },
     {
       "id": "echoes-60fps-us",
@@ -1720,7 +1683,7 @@
           }
         ]
       },
-      "notes": "Gives more characters and classes their own textures, and adds a few custom models. It shares bs/ComboTbl.bin.lz with Unofficial Gay Awakening, so the app will ask before replacing one with the other."
+      "notes": "Gives more characters and classes their own textures, and adds a few custom models. It replaces bs/ComboTbl.bin.lz, so the app will ask before replacing it with another mod's copy."
     },
     {
       "id": "awakening-spotpass-paralogues-na",
@@ -1779,136 +1742,6 @@
         ]
       },
       "notes": "Unlocks the Side Stories that normally need SpotPass: Side Story 18 opens at Chapter 25 and the rest once you reach the endgame (Europe). Made for a vanilla playthrough."
-    },
-    {
-      "id": "awakening-unofficial-gay-awakening-na",
-      "name": "Unofficial Gay Awakening",
-      "title": "Fire Emblem Awakening",
-      "title_ids": [
-        "00040000000A0500"
-      ],
-      "author": "Manakete_Smoocher",
-      "author_url": "https://gamebanana.com/members/1828619",
-      "licence": "CC BY-NC-ND 4.0",
-      "homepage": "https://gamebanana.com/mods/424187",
-      "verified": false,
-      "downloads": 35526,
-      "updated": "2026-03",
-      "source": {
-        "type": "gamebanana",
-        "mod": 424187,
-        "file_pattern": "uga_full_*.7z"
-      },
-      "version_chip": {
-        "label": "1.0",
-        "tip": "For the game as released (1.0), without an update.",
-        "code_crc32": [
-          "31dad06e"
-        ]
-      },
-      "install": {
-        "rules": [
-          {
-            "from": "*/romfs/m/E/",
-            "to": "romfs/m/E/"
-          },
-          {
-            "from": "*/romfs/",
-            "to": "romfs/"
-          },
-          {
-            "from": "*/code patches/NA.ips",
-            "to": "code.ips"
-          },
-          {
-            "from": "*/citra only/RelianceList.bin.lz",
-            "to": "romfs/data/RelianceList.bin.lz"
-          }
-        ]
-      },
-      "notes": "Adds 500+ supports, romance options and new story scenes, and includes the emulator-only support log file (North America). It uses a code patch, so it replaces other code patches such as the 60 FPS patch. The optional add-ons are not installed."
-    },
-    {
-      "id": "awakening-unofficial-gay-awakening-eu",
-      "name": "Unofficial Gay Awakening",
-      "title": "Fire Emblem Awakening",
-      "title_ids": [
-        "000400000009F100"
-      ],
-      "author": "Manakete_Smoocher",
-      "author_url": "https://gamebanana.com/members/1828619",
-      "licence": "CC BY-NC-ND 4.0",
-      "homepage": "https://gamebanana.com/mods/424187",
-      "verified": false,
-      "downloads": 35526,
-      "updated": "2026-03",
-      "source": {
-        "type": "gamebanana",
-        "mod": 424187,
-        "file_pattern": "uga_full_*.7z"
-      },
-      "install": {
-        "rules": [
-          {
-            "from": "*/romfs/m/E/",
-            "to": "romfs/m/U/"
-          },
-          {
-            "from": "*/romfs/",
-            "to": "romfs/"
-          },
-          {
-            "from": "*/code patches/EU.ips",
-            "to": "code.ips"
-          },
-          {
-            "from": "*/citra only/RelianceList.bin.lz",
-            "to": "romfs/data/RelianceList.bin.lz"
-          }
-        ]
-      },
-      "notes": "Adds 500+ supports, romance options and new story scenes, and includes the emulator-only support log file (Europe). The new text is English only, so set the game to English. It uses a code patch, so it replaces other code patches. The optional add-ons are not installed."
-    },
-    {
-      "id": "awakening-unofficial-gay-awakening-jp",
-      "name": "Unofficial Gay Awakening",
-      "title": "Fire Emblem Awakening",
-      "title_ids": [
-        "0004000000072000"
-      ],
-      "author": "Manakete_Smoocher",
-      "author_url": "https://gamebanana.com/members/1828619",
-      "licence": "CC BY-NC-ND 4.0",
-      "homepage": "https://gamebanana.com/mods/424187",
-      "verified": false,
-      "downloads": 35526,
-      "updated": "2026-03",
-      "source": {
-        "type": "gamebanana",
-        "mod": 424187,
-        "file_pattern": "uga_full_*.7z"
-      },
-      "install": {
-        "rules": [
-          {
-            "from": "*/romfs/m/E/",
-            "to": "romfs/m/"
-          },
-          {
-            "from": "*/romfs/",
-            "to": "romfs/"
-          },
-          {
-            "from": "*/code patches/JP.ips",
-            "to": "code.ips"
-          },
-          {
-            "from": "*/citra only/RelianceList.bin.lz",
-            "to": "romfs/data/RelianceList.bin.lz"
-          }
-        ]
-      },
-      "notes": "Adds 500+ supports, romance options and new story scenes, and includes the emulator-only support log file (Japan). All added text is in English. It uses a code patch, so it replaces other code patches. The optional add-ons are not installed."
     },
     {
       "id": "awakening-remove-avatar-creation",
@@ -11084,7 +10917,7 @@
           }
         ]
       },
-      "notes": "Gives Mega Mewtwo Y a feminine look. The download is about 900 MB.",
+      "notes": "Gives Mega Mewtwo Y a feminine look. The download is about 900 MB. It replaces the game's whole Pokemon model archive, so use only one of the two feminine skins and no other Pokemon model mod.",
       "size": 895998752
     },
     {
@@ -11115,8 +10948,39 @@
           }
         ]
       },
-      "notes": "Gives Fennekin and Braixen a feminine look. The download is about 900 MB.",
+      "notes": "Gives Fennekin and Braixen a feminine look. The download is about 900 MB. It replaces the game's whole Pokemon model archive, so use only one of the two feminine skins and no other Pokemon model mod.",
       "size": 895996604
+    },
+    {
+      "id": "fates-soleil-romance-restoration",
+      "name": "Soleil Romance Restoration",
+      "title": "Fire Emblem Fates Birthright / Conquest / Special Edition (USA)",
+      "title_ids": [
+        "0004000000179800",
+        "0004000000179400",
+        "0004000000179600"
+      ],
+      "author": "Montblanc",
+      "author_url": "https://gamebanana.com/members/1875783",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/323411",
+      "verified": false,
+      "downloads": 1111,
+      "updated": "2021-09",
+      "source": {
+        "type": "gamebanana",
+        "mod": 323411,
+        "file_pattern": "soleil_no_friendzoning.7z"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Soleil No Friendzoning/",
+            "to": "romfs/m/@E/"
+          }
+        ]
+      },
+      "notes": "Restores Soleil's romantic S-supports with the male characters from the Japanese release (North America)."
     }
   ],
   "versions": [
