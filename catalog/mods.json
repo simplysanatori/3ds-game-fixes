@@ -9608,6 +9608,315 @@
       },
       "notes": "Adds the four as playable characters; this is the separate version.",
       "size": 124062998
+    },
+    {
+      "id": "fates-body-accessories-always-visible",
+      "name": "Body Accessories Always Visible",
+      "title": "Fire Emblem Fates",
+      "title_ids": [
+        "0004000000179800",
+        "000400000017A800",
+        "000400000012DE00",
+        "0004000000179400",
+        "0004000000179600",
+        "0004000000179500",
+        "0004000000179700",
+        "000400000012DC00",
+        "000400000012DD00"
+      ],
+      "author": "Accel Sword",
+      "author_url": "https://gamebanana.com/members/1719774",
+      "licence": "Free for personal use only; not for sale or reposting",
+      "homepage": "https://gamebanana.com/mods/74922",
+      "verified": false,
+      "downloads": 5612,
+      "updated": "2021-10",
+      "source": {
+        "type": "gamebanana",
+        "mod": 74922,
+        "file_pattern": "alwaysbodyaccessoriesmod_*.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "AlwaysBodyAccessoriesMod/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Body accessories stay visible when equipped."
+    },
+    {
+      "id": "fates-weapon-model-fix",
+      "name": "Weapon Model Fix",
+      "title": "Fire Emblem Fates",
+      "title_ids": [
+        "0004000000179800",
+        "000400000017A800",
+        "000400000012DE00",
+        "0004000000179400",
+        "0004000000179600",
+        "0004000000179500",
+        "0004000000179700",
+        "000400000012DC00",
+        "000400000012DD00"
+      ],
+      "author": "Moonling",
+      "author_url": "https://gamebanana.com/members/1698465",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/51431",
+      "verified": false,
+      "downloads": 4903,
+      "updated": "2020-08",
+      "source": {
+        "type": "gamebanana",
+        "mod": 51431,
+        "file_pattern": "weaponfix.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Fixes weapon models."
+    },
+    {
+      "id": "fates-nyx-veil-fix",
+      "name": "Nyx Veil Fix",
+      "title": "Fire Emblem Fates",
+      "title_ids": [
+        "0004000000179800",
+        "000400000017A800",
+        "000400000012DE00",
+        "0004000000179400",
+        "0004000000179600",
+        "0004000000179500",
+        "0004000000179700",
+        "000400000012DC00",
+        "000400000012DD00"
+      ],
+      "author": "Moonling",
+      "author_url": "https://gamebanana.com/members/1698465",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/251469",
+      "verified": false,
+      "downloads": 4750,
+      "updated": "2020-01",
+      "source": {
+        "type": "gamebanana",
+        "mod": 251469,
+        "file_pattern": "justicefornyx.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "bu/",
+            "to": "romfs/bu/"
+          },
+          {
+            "from": "bx/",
+            "to": "romfs/bx/"
+          }
+        ]
+      },
+      "notes": "Fixes the veil on Nyx."
+    },
+    {
+      "id": "fates-weapon-nerfs-removal",
+      "name": "Weapon Nerfs Removal",
+      "title": "Fire Emblem Fates",
+      "title_ids": [
+        "0004000000179800",
+        "000400000017A800",
+        "000400000012DE00",
+        "0004000000179400",
+        "0004000000179600",
+        "0004000000179500",
+        "0004000000179700",
+        "000400000012DC00",
+        "000400000012DD00"
+      ],
+      "author": "Excadrill1201",
+      "author_url": "https://gamebanana.com/members/1753334",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/51432",
+      "verified": false,
+      "downloads": 3056,
+      "updated": "2020-10",
+      "source": {
+        "type": "gamebanana",
+        "mod": 51432,
+        "file_pattern": "fates_weapon_nerfs_removal.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "item changes/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Removes the weapon nerfs."
+    },
+    {
+      "id": "fates-sexualization-removal",
+      "name": "Sexualization Removal",
+      "title": "Fire Emblem Fates",
+      "title_ids": [
+        "0004000000179800",
+        "000400000017A800",
+        "000400000012DE00",
+        "0004000000179400",
+        "0004000000179600",
+        "0004000000179500",
+        "0004000000179700",
+        "000400000012DC00",
+        "000400000012DD00"
+      ],
+      "author": "NeverUsed776",
+      "author_url": "https://gamebanana.com/members/3863769",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/562305",
+      "verified": false,
+      "downloads": 1215,
+      "updated": "2024-12",
+      "source": {
+        "type": "gamebanana",
+        "mod": 562305,
+        "file_pattern": "sexualization_removal_v2.7z"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Sexualization Removal v2/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Replaces the more revealing outfits with covered ones."
+    },
+    {
+      "id": "fates-60fps-us",
+      "name": "True 60 FPS (No Speedup)",
+      "title": "Fire Emblem Fates Special Edition (USA)",
+      "title_ids": [
+        "0004000000179800"
+      ],
+      "author": "Phenceon",
+      "author_url": "https://gamebanana.com/members/2483164",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/720761",
+      "verified": false,
+      "downloads": 497,
+      "updated": "2026-09",
+      "source": {
+        "type": "gamebanana",
+        "mod": 720761,
+        "file_pattern": "fire_emblem_fates_60_fps_patches.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Fire Emblem Fates Special Edition USA v1.0/code.ips",
+            "to": "code.ips"
+          }
+        ]
+      },
+      "notes": "Runs the game at 60 FPS without speeding up the game itself (Special Edition, USA)."
+    },
+    {
+      "id": "fates-60fps-eu",
+      "name": "True 60 FPS (No Speedup)",
+      "title": "Fire Emblem Fates Special Edition (Europe)",
+      "title_ids": [
+        "000400000017A800"
+      ],
+      "author": "Phenceon",
+      "author_url": "https://gamebanana.com/members/2483164",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/720761",
+      "verified": false,
+      "downloads": 497,
+      "updated": "2026-09",
+      "source": {
+        "type": "gamebanana",
+        "mod": 720761,
+        "file_pattern": "fire_emblem_fates_60_fps_patches.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Fire Emblem Fates Limited Edition EUR v1.0/code.ips",
+            "to": "code.ips"
+          }
+        ]
+      },
+      "notes": "Runs the game at 60 FPS without speeding up the game itself (Special Edition, Europe)."
+    },
+    {
+      "id": "fates-better-amiibo-us",
+      "name": "Better Amiibo",
+      "title": "Fire Emblem Fates Birthright / Conquest (USA)",
+      "title_ids": [
+        "0004000000179800",
+        "0004000000179400",
+        "0004000000179600"
+      ],
+      "author": "DroppedShip",
+      "author_url": "https://gamebanana.com/members/1968064",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/318671",
+      "verified": false,
+      "downloads": 7196,
+      "updated": "2022-12",
+      "source": {
+        "type": "gamebanana",
+        "mod": 318671,
+        "file_pattern": "better_amiibo_usa_*.rar"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Full package/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Improves the amiibo content (North America)."
+    },
+    {
+      "id": "fates-better-amiibo-eu",
+      "name": "Better Amiibo",
+      "title": "Fire Emblem Fates Birthright / Conquest (Europe)",
+      "title_ids": [
+        "000400000017A800",
+        "0004000000179500",
+        "0004000000179700"
+      ],
+      "author": "DroppedShip",
+      "author_url": "https://gamebanana.com/members/1968064",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/318671",
+      "verified": false,
+      "downloads": 7196,
+      "updated": "2022-12",
+      "source": {
+        "type": "gamebanana",
+        "mod": 318671,
+        "file_pattern": "better_amiibo_eur_*.rar"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Full package/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Improves the amiibo content (Europe)."
     }
   ],
   "versions": [
