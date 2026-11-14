@@ -3263,6 +3263,32 @@
       "homepage": "https://gamebanana.com/mods/479095",
       "notes": "Gives the shiny Greninja a crimson palette.",
       "verified": false
+    },
+    {
+      "id": "dq8-modular-hd-texture-replacements",
+      "name": "Modular HD Texture Replacements",
+      "title": "Dragon Quest VIII: Journey of the Cursed King",
+      "title_ids": [
+        "000400000018F100",
+        "000400000018F200"
+      ],
+      "author": "MetalTxus",
+      "author_url": "https://gamebanana.com/members/2566769",
+      "downloads": 554,
+      "updated": "2026-08",
+      "source": {
+        "type": "gamebanana",
+        "mod": 480972,
+        "file_pattern": "dq8_3ds_modular_hd_texture_replacements_v1_2_6c.zip"
+      },
+      "size": 1510854,
+      "format": "zip",
+      "layout": "variants",
+      "folder": "Modular HD Texture Replacements",
+      "licence": "CC BY-NC 4.0",
+      "homepage": "https://gamebanana.com/mods/480972",
+      "notes": "Small HD replacements in separate folders, so you can turn the parts on and off.",
+      "verified": false
     }
   ]
 }
