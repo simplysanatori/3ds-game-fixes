@@ -10415,6 +10415,142 @@
       },
       "notes": "A content overhaul of the Thabes chapters (Europe). Replaces other code patches for the game.",
       "size": 143073456
+    },
+    {
+      "id": "sm3dl-steve-3d-land-v2",
+      "name": "Steve 3D Land V2",
+      "title": "Super Mario 3D Land",
+      "title_ids": [
+        "0004000000054000",
+        "0004000000053F00",
+        "0004000000054100"
+      ],
+      "author": "Blurro",
+      "author_url": "https://gamebanana.com/members/1672097",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/403943",
+      "verified": false,
+      "downloads": 4444,
+      "updated": "2025-12",
+      "source": {
+        "type": "gamebanana",
+        "mod": 403943,
+        "file_pattern": "steve_3d_land_mod_v2_*.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "*/LayoutData/",
+            "to": "romfs/LayoutData/"
+          },
+          {
+            "from": "*/LocalizedData/",
+            "to": "romfs/LocalizedData/"
+          },
+          {
+            "from": "*/ObjectData/",
+            "to": "romfs/ObjectData/"
+          },
+          {
+            "from": "*/SoundData/",
+            "to": "romfs/SoundData/"
+          }
+        ]
+      },
+      "notes": "Replaces Mario with Steve."
+    },
+    {
+      "id": "sm3dl-super-mario-3d-land-1-5",
+      "name": "Super Mario 3D Land 1.5",
+      "title": "Super Mario 3D Land",
+      "title_ids": [
+        "0004000000054000",
+        "0004000000053F00",
+        "0004000000054100"
+      ],
+      "author": "Nick64 Mods",
+      "author_url": "https://gamebanana.com/members/2394426",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/435994",
+      "verified": false,
+      "downloads": 662,
+      "updated": "2023-07",
+      "source": {
+        "type": "gamebanana",
+        "mod": 435994,
+        "file_pattern": "super_mario_3d_land_1_5.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "-TITLE ID-/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "A custom level pack."
+    },
+    {
+      "id": "sm3dl-sm64-mario",
+      "name": "SM64 Mario",
+      "title": "Super Mario 3D Land",
+      "title_ids": [
+        "0004000000054000",
+        "0004000000053F00",
+        "0004000000054100"
+      ],
+      "author": "NintendoGameTuber",
+      "author_url": "https://gamebanana.com/members/1672096",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/331412",
+      "verified": false,
+      "downloads": 3718,
+      "updated": "2026-05",
+      "source": {
+        "type": "gamebanana",
+        "mod": 331412,
+        "file_pattern": "sm64_mario_in_sm3dl.rar"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "SM64 Mario in SM3DL/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Replaces Mario with his Super Mario 64 look."
+    },
+    {
+      "id": "sm3dl-classic-tanooki-suits",
+      "name": "Raccoon and Fox Forms",
+      "title": "Super Mario 3D Land",
+      "title_ids": [
+        "0004000000054000",
+        "0004000000053F00",
+        "0004000000054100"
+      ],
+      "author": "NintendoGameTuber",
+      "author_url": "https://gamebanana.com/members/1672096",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/359326",
+      "verified": false,
+      "downloads": 2061,
+      "updated": "2026-05",
+      "source": {
+        "type": "gamebanana",
+        "mod": 359326,
+        "file_pattern": "classic_tanooki_suits_*.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Brings back the Raccoon and Fox forms from New Super Mario Bros. 2."
     }
   ],
   "versions": [
