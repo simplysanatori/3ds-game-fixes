@@ -10849,6 +10849,126 @@
         ]
       },
       "notes": "Fierce Deity Link, adult alternative."
+    },
+    {
+      "id": "kiu-turkish-translation",
+      "name": "Turkish Translation",
+      "title": "Kid Icarus: Uprising",
+      "title_ids": [
+        "0004000000030200"
+      ],
+      "author": "Reqrefusion",
+      "author_url": "https://gamebanana.com/members/5134648",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/648202",
+      "verified": false,
+      "downloads": 15,
+      "updated": "2026-01",
+      "source": {
+        "type": "gamebanana",
+        "mod": 648202,
+        "file_pattern": "kid_icarus_uprising_t_rk_e_yama.7z"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "*/{tid}/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "A Turkish translation for the European version. Needs patches enabled.",
+      "size": 247986346
+    },
+    {
+      "id": "kiu-cstick-aim-usa",
+      "name": "C-Stick Aim",
+      "title": "Kid Icarus: Uprising",
+      "title_ids": [
+        "0004000000030100"
+      ],
+      "author": "hosiniku",
+      "author_url": "https://github.com/hosiniku",
+      "licence": "MIT",
+      "homepage": "https://github.com/hosiniku/kiu-cstick-aim",
+      "verified": false,
+      "version": "v0.2.0",
+      "updated": "2026-10",
+      "source": {
+        "type": "github_release",
+        "repo": "hosiniku/kiu-cstick-aim",
+        "tag": "v0.2.0",
+        "asset_pattern": "kiu-cstick-aim-v0.2.0-USA.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Azahar/load/mods/{tid}/exefs/",
+            "to": "exefs/"
+          }
+        ]
+      },
+      "notes": "Aim with the right stick (C-Stick) while moving with the Circle Pad; touch still wins while touched. Replaces the game's code, so it clashes with other code patches, including the other C-Stick patch. The author has not tested the USA version."
+    },
+    {
+      "id": "kiu-cstick-aim-eur",
+      "name": "C-Stick Aim",
+      "title": "Kid Icarus: Uprising",
+      "title_ids": [
+        "0004000000030200"
+      ],
+      "author": "hosiniku",
+      "author_url": "https://github.com/hosiniku",
+      "licence": "MIT",
+      "homepage": "https://github.com/hosiniku/kiu-cstick-aim",
+      "verified": false,
+      "version": "v0.2.0",
+      "updated": "2026-10",
+      "source": {
+        "type": "github_release",
+        "repo": "hosiniku/kiu-cstick-aim",
+        "tag": "v0.2.0",
+        "asset_pattern": "kiu-cstick-aim-v0.2.0-EUR.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Azahar/load/mods/{tid}/exefs/",
+            "to": "exefs/"
+          }
+        ]
+      },
+      "notes": "Aim with the right stick (C-Stick) while moving with the Circle Pad; touch still wins while touched. Replaces the game's code, so it clashes with other code patches, including the other C-Stick patch."
+    },
+    {
+      "id": "kiu-cstick-aim-jpn",
+      "name": "C-Stick Aim",
+      "title": "Kid Icarus: Uprising",
+      "title_ids": [
+        "0004000000030000"
+      ],
+      "author": "hosiniku",
+      "author_url": "https://github.com/hosiniku",
+      "licence": "MIT",
+      "homepage": "https://github.com/hosiniku/kiu-cstick-aim",
+      "verified": false,
+      "version": "v0.2.0",
+      "updated": "2026-10",
+      "source": {
+        "type": "github_release",
+        "repo": "hosiniku/kiu-cstick-aim",
+        "tag": "v0.2.0",
+        "asset_pattern": "kiu-cstick-aim-v0.2.0-JPN.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Azahar/load/mods/{tid}/exefs/",
+            "to": "exefs/"
+          }
+        ]
+      },
+      "notes": "Aim with the right stick (C-Stick) while moving with the Circle Pad; touch still wins while touched. Replaces the game's code, so it clashes with other code patches, including the other C-Stick patch."
     }
   ],
   "versions": [
