@@ -9186,6 +9186,428 @@
       },
       "notes": "A beta set of 32 custom tracks and 16 custom characters, installed as replacement game files.",
       "size": 351092755
+    },
+    {
+      "id": "echoes-farmable-pitchforks-20",
+      "name": "Farmable Pitchforks (20%)",
+      "title": "Fire Emblem Echoes: Shadows of Valentia",
+      "title_ids": [
+        "00040000001B4000",
+        "00040000001B4100"
+      ],
+      "author": "Nicole Beans",
+      "author_url": "https://gamebanana.com/members/2102923",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/423605",
+      "verified": false,
+      "downloads": 1459,
+      "updated": "2023-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 423605,
+        "file_pattern": "region-fix_farmable_pitchfork_*.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "region-fix_farmable_pitchfork/Farmable_Pitchfork_20%/{tid}/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Makes the pitchfork farmable, the 20% version. The 5% version is a separate entry."
+    },
+    {
+      "id": "echoes-farmable-pitchforks-5",
+      "name": "Farmable Pitchforks (5%)",
+      "title": "Fire Emblem Echoes: Shadows of Valentia",
+      "title_ids": [
+        "00040000001B4000",
+        "00040000001B4100"
+      ],
+      "author": "Nicole Beans",
+      "author_url": "https://gamebanana.com/members/2102923",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/423605",
+      "verified": false,
+      "downloads": 1459,
+      "updated": "2023-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 423605,
+        "file_pattern": "region-fix_farmable_pitchfork_*.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "region-fix_farmable_pitchfork/Farmable_Pitchfork_5%/{tid}/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Makes the pitchfork farmable, the 5% version. The 20% version is a separate entry."
+    },
+    {
+      "id": "echoes-thieves-shrine-items",
+      "name": "All Useful Items in Thieves Shrine",
+      "title": "Fire Emblem Echoes: Shadows of Valentia",
+      "title_ids": [
+        "00040000001B4000",
+        "00040000001B4100"
+      ],
+      "author": "Oersted",
+      "author_url": "https://gamebanana.com/members/1705581",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/485015",
+      "verified": false,
+      "downloads": 1234,
+      "updated": "2024-02",
+      "source": {
+        "type": "gamebanana",
+        "mod": 485015,
+        "file_pattern": "romfs_*.7z"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Makes every item in Thieves Shrine useful. The author supports only the USA and Europe versions."
+    },
+    {
+      "id": "echoes-7-eleven-collab-enabler",
+      "name": "7-Eleven Collab Enabler",
+      "title": "Fire Emblem Echoes: Shadows of Valentia",
+      "title_ids": [
+        "00040000001B4000",
+        "00040000001B4100",
+        "00040000001A2B00"
+      ],
+      "author": "delvier",
+      "author_url": "https://gamebanana.com/members/2229521",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/450908",
+      "verified": false,
+      "downloads": 824,
+      "updated": "2023-07",
+      "source": {
+        "type": "gamebanana",
+        "mod": 450908,
+        "file_pattern": "7-eleven_enabler_0.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Turns on the 7-Eleven collaboration content."
+    },
+    {
+      "id": "echoes-lunatic-mode-hack",
+      "name": "Lunatic Mode Hack",
+      "title": "Fire Emblem Echoes: Shadows of Valentia",
+      "title_ids": [
+        "00040000001B4000",
+        "00040000001B4100"
+      ],
+      "author": "blobfish209",
+      "author_url": "https://gamebanana.com/members/3678841",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/534372",
+      "verified": false,
+      "downloads": 734,
+      "updated": "2026-09",
+      "source": {
+        "type": "gamebanana",
+        "mod": 534372,
+        "file_pattern": "151.7z"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "151/1.5.1/v1.5.1/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "A harder difficulty, version 1.5.1."
+    },
+    {
+      "id": "echoes-less-rare-regalia",
+      "name": "Less Rare Regalia Weapons",
+      "title": "Fire Emblem Echoes: Shadows of Valentia",
+      "title_ids": [
+        "00040000001B4000",
+        "00040000001B4100"
+      ],
+      "author": "LJ_Reflet",
+      "author_url": "https://gamebanana.com/members/1976044",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/439820",
+      "verified": false,
+      "downloads": 727,
+      "updated": "2023-04",
+      "source": {
+        "type": "gamebanana",
+        "mod": 439820,
+        "file_pattern": "echoes_regalia.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Echoes Relic Mod/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Makes the regalia weapons less rare. Use the version for the Gender Lock Removal mod if that is installed."
+    },
+    {
+      "id": "echoes-less-rare-regalia-glr",
+      "name": "Less Rare Regalia Weapons (with Gender Lock Removal)",
+      "title": "Fire Emblem Echoes: Shadows of Valentia",
+      "title_ids": [
+        "00040000001B4000",
+        "00040000001B4100"
+      ],
+      "author": "LJ_Reflet",
+      "author_url": "https://gamebanana.com/members/1976044",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/439820",
+      "verified": false,
+      "downloads": 727,
+      "updated": "2023-04",
+      "source": {
+        "type": "gamebanana",
+        "mod": 439820,
+        "file_pattern": "echoes_regalia_glr.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Echoes Relic Mod (GLR)/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "The version for use with the Gender Lock Removal mod."
+    },
+    {
+      "id": "echoes-fan-retranslation",
+      "name": "Fan Retranslation",
+      "title": "Fire Emblem Echoes: Shadows of Valentia",
+      "title_ids": [
+        "00040000001B4000",
+        "00040000001B4100"
+      ],
+      "author": "silvertail76",
+      "author_url": "https://gamebanana.com/members/3099456",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/487299",
+      "verified": false,
+      "downloads": 678,
+      "updated": "2024-09",
+      "source": {
+        "type": "gamebanana",
+        "mod": 487299,
+        "file_pattern": "fire_emblem_echoes_retranslation_v14.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "public_patch/fe15_retranslation_eng_names/main_game/*/{tid}/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "A more accurate retranslation of the story, with English names (USA and Europe). The author recommends the undub patch with it."
+    },
+    {
+      "id": "echoes-spell-lists-for-everyone",
+      "name": "Spell Lists For Everyone",
+      "title": "Fire Emblem Echoes: Shadows of Valentia",
+      "title_ids": [
+        "00040000001B4000",
+        "00040000001B4100"
+      ],
+      "author": "AquaWine",
+      "author_url": "https://gamebanana.com/members/2111673",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/376969",
+      "verified": false,
+      "downloads": 664,
+      "updated": "2022-05",
+      "source": {
+        "type": "gamebanana",
+        "mod": 376969,
+        "file_pattern": "spell_list_mod.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Spell List Mod/Data/",
+            "to": "romfs/Data/"
+          }
+        ]
+      },
+      "notes": "Lets every class use full spell lists."
+    },
+    {
+      "id": "echoes-unique-clothing",
+      "name": "Unique Clothing",
+      "title": "Fire Emblem Echoes: Shadows of Valentia",
+      "title_ids": [
+        "00040000001B4000",
+        "00040000001B4100"
+      ],
+      "author": "Flannoit",
+      "author_url": "https://gamebanana.com/members/2091443",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/425751",
+      "verified": false,
+      "downloads": 458,
+      "updated": "2023-02",
+      "source": {
+        "type": "gamebanana",
+        "mod": 425751,
+        "file_pattern": "sov_unique_clothing_v11.rar"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "All Uniques/RomFS/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Gives characters unique clothing; this is the All Uniques version."
+    },
+    {
+      "id": "echoes-deen-and-sonya-pretend-to-be-dead",
+      "name": "Deen and Sonya Pretend to Be Dead",
+      "title": "Fire Emblem Echoes: Shadows of Valentia",
+      "title_ids": [
+        "00040000001B4000"
+      ],
+      "author": "Nicole Beans",
+      "author_url": "https://gamebanana.com/members/2102923",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/427581",
+      "verified": false,
+      "downloads": 1727,
+      "updated": "2024-09",
+      "source": {
+        "type": "gamebanana",
+        "mod": 427581,
+        "file_pattern": "both_deen-sonya_*.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Mod Files/{tid}/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Changes the Deen and Sonya event (North America)."
+    },
+    {
+      "id": "echoes-more-playable-classes",
+      "name": "More Playable Classes",
+      "title": "Fire Emblem Echoes: Shadows of Valentia",
+      "title_ids": [
+        "00040000001B4000",
+        "00040000001B4100"
+      ],
+      "author": "GrandmasterMorgan",
+      "author_url": "https://gamebanana.com/members/1775406",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/431543",
+      "verified": false,
+      "downloads": 1018,
+      "updated": "2023-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 431543,
+        "file_pattern": "echoes_more_classes_v1_3.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Release/Main/romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Lets more characters change into more classes."
+    },
+    {
+      "id": "echoes-rg-edition",
+      "name": "RG Edition",
+      "title": "Fire Emblem Echoes: Shadows of Valentia",
+      "title_ids": [
+        "00040000001B4000",
+        "00040000001B4100"
+      ],
+      "author": "RavenSWFS",
+      "author_url": "https://gamebanana.com/members/3029803",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/532837",
+      "verified": false,
+      "downloads": 1156,
+      "updated": "2025-09",
+      "source": {
+        "type": "gamebanana",
+        "mod": 532837,
+        "file_pattern": "endgamepart2.rar"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "An overhaul of the end game, part 2.",
+      "size": 119056560
+    },
+    {
+      "id": "echoes-playable-nuibaba-rinea-berkut-fernand",
+      "name": "Playable Nuibaba, Rinea, Berkut and Fernand",
+      "title": "Fire Emblem Echoes: Shadows of Valentia",
+      "title_ids": [
+        "00040000001B4000",
+        "00040000001B4100"
+      ],
+      "author": "CLTurtle",
+      "author_url": "https://gamebanana.com/members/3354266",
+      "licence": "Free to use and modify, with credit to the author",
+      "homepage": "https://gamebanana.com/mods/511453",
+      "verified": false,
+      "downloads": 585,
+      "updated": "2026-03",
+      "source": {
+        "type": "gamebanana",
+        "mod": 511453,
+        "file_pattern": "separate_*.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Adds the four as playable characters; this is the separate version.",
+      "size": 124062998
     }
   ],
   "versions": [
