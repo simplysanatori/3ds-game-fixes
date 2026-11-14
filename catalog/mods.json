@@ -10551,6 +10551,99 @@
         ]
       },
       "notes": "Brings back the Raccoon and Fox forms from New Super Mario Bros. 2."
+    },
+    {
+      "id": "mk7-sm64-mario",
+      "name": "SM64 Mario",
+      "title": "Mario Kart 7",
+      "title_ids": [
+        "0004000000030800",
+        "0004000000030700",
+        "0004000000030600"
+      ],
+      "author": "NintendoGameTuber",
+      "author_url": "https://gamebanana.com/members/1672096",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/249440",
+      "verified": false,
+      "downloads": 3222,
+      "updated": "2026-05",
+      "source": {
+        "type": "gamebanana",
+        "mod": 249440,
+        "file_pattern": "sm64-mario_mariokart7_3ds.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Mario with his Super Mario 64 look."
+    },
+    {
+      "id": "mk7-sm64-luigi",
+      "name": "SM64 Luigi",
+      "title": "Mario Kart 7",
+      "title_ids": [
+        "0004000000030800",
+        "0004000000030700",
+        "0004000000030600"
+      ],
+      "author": "NintendoGameTuber",
+      "author_url": "https://gamebanana.com/members/1672096",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/249435",
+      "verified": false,
+      "downloads": 1580,
+      "updated": "2026-05",
+      "source": {
+        "type": "gamebanana",
+        "mod": 249435,
+        "file_pattern": "sm64-luigi_mariokart7_3ds.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "Luigi with his Super Mario 64 look."
+    },
+    {
+      "id": "mk7-rob",
+      "name": "R.O.B.",
+      "title": "Mario Kart 7",
+      "title_ids": [
+        "0004000000030800",
+        "0004000000030700",
+        "0004000000030600"
+      ],
+      "author": "NintendoGameTuber",
+      "author_url": "https://gamebanana.com/members/1672096",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/249442",
+      "verified": false,
+      "downloads": 1713,
+      "updated": "2026-05",
+      "source": {
+        "type": "gamebanana",
+        "mod": 249442,
+        "file_pattern": "rob_mariokart7_3ds.zip"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "romfs/",
+            "to": "romfs/"
+          }
+        ]
+      },
+      "notes": "R.O.B. as a driver."
     }
   ],
   "versions": [
