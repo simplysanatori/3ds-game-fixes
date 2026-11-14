@@ -10981,6 +10981,37 @@
         ]
       },
       "notes": "Restores Soleil's romantic S-supports with the male characters from the Japanese release (North America)."
+    },
+    {
+      "id": "fates-soleil-romance-restoration-eu",
+      "name": "Soleil Romance Restoration",
+      "title": "Fire Emblem Fates Birthright / Conquest / Special Edition (Europe)",
+      "title_ids": [
+        "000400000017A800",
+        "0004000000179500",
+        "0004000000179700"
+      ],
+      "author": "Montblanc",
+      "author_url": "https://gamebanana.com/members/1875783",
+      "licence": "CC BY-NC-ND 4.0",
+      "homepage": "https://gamebanana.com/mods/323411",
+      "verified": false,
+      "downloads": 1111,
+      "updated": "2021-09",
+      "source": {
+        "type": "gamebanana",
+        "mod": 323411,
+        "file_pattern": "soleil_no_friendzoning.7z"
+      },
+      "install": {
+        "rules": [
+          {
+            "from": "Soleil No Friendzoning/",
+            "to": "romfs/m/@U/"
+          }
+        ]
+      },
+      "notes": "Restores Soleil's romantic S-supports with the male characters from the Japanese release (Europe; the game's language must be English)."
     }
   ],
   "versions": [
