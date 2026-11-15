@@ -3311,7 +3311,8 @@
       "folder": "Stella Glow HD",
       "licence": "Free for emulators; credit the author",
       "notes": "Every texture upscaled 4x with AI, with the UI text, logos and turn-order portraits redrawn by hand. Version 0.9.0. It is large, about 4.7 GB, so on the Frame it streams in instead of preloading. Made on the USA version.",
-      "verified": true
+      "verified": true,
+      "recommended": true
     },
     {
       "id": "kiu-weapons-hd-4x",
