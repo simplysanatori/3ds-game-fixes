@@ -12,12 +12,15 @@ games/<game>-<region>/
   cheats/<title id>.txt         Action Replay codes, Citra/Azahar file format
   images/                       before/after screenshots
 docs/USER_GUIDE.md              install folders for every emulator, shared by all games
+docs/stella-glow-hd.md          page for the Stella Glow HD texture pack
+docs/angels-aim.md              page for Angel's Aim (Azahar for Frame) and the Kid Icarus weapons pack
 ```
 
 - Folder names are lowercase, with the region last: `stella-glow-usa`, `dragon-quest-xi-usa`.
 - The `patch/<title id>/` folder mirrors the mods folder, so it can be copied in whole.
 - Fixes live as folders on `main`, one per game. Use a branch only for a fix still in progress, then merge it.
 - Add each new game to the **Games** list in `README.md`.
+- Texture packs and Azahar for Frame features get a page in `docs/`, linked from `README.md`. The packs themselves are never in this repo.
 
 ## Rules for a fix
 

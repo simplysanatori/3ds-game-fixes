@@ -2,6 +2,8 @@
 
 Removes the glow and doubled outlines around characters when you raise the internal resolution.
 
+For sharper textures too, add the [Stella Glow HD](../../docs/stella-glow-hd.md) texture pack.
+
 ![Battle cursor before and after in Azahar at 6x](images/battle-cursor-before-after.jpg)
 
 The red battle cursor and the ground under it were the worst offenders. Full screen:
@@ -42,4 +44,5 @@ Cheat instead: copy the code from `cheats/0004000000173700.txt` into your cheat 
 
 ## More
 
-[AGENTS.md](AGENTS.md): how the glow is drawn, why upscaling breaks it and what the patch changes.
+- [AGENTS.md](AGENTS.md): how the glow is drawn, why upscaling breaks it and what the patch changes.
+- [Stella Glow HD](../../docs/stella-glow-hd.md): the HD texture pack for this game

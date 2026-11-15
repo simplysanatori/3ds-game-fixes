@@ -2,9 +2,22 @@
 
 Patches and cheats that fix graphics bugs and add tweaks to 3DS games. They work in Azahar, Citra, Zakuro and on a real 3DS with Luma3DS.
 
+It also holds HD texture packs and the mods catalogue for [Azahar for Frame](https://github.com/simplysanatori/AzaharFrame).
+
 ## Games
 
 - [Stella Glow (USA)](games/stella-glow-usa/): removes the ghostly glow around characters at high resolution
+
+## Texture packs
+
+- [Stella Glow HD](docs/stella-glow-hd.md): every texture 4x, with UI text, logos and turn-order portraits redrawn by hand
+- Kid Icarus Uprising Weapons HD: the weapon textures 4x, on the [Angel's Aim](docs/angels-aim.md) page
+
+## Azahar for Frame
+
+[Azahar for Frame](https://github.com/simplysanatori/AzaharFrame) plays 3DS games in VR on the Steam Frame. It adds immersive modes, screens you move and resize, save states, and downloads cheats, mods and texture packs from the headset.
+
+- [Angel's Aim](docs/angels-aim.md): point your controller to aim in Kid Icarus: Uprising, with Pit's weapon in your hand
 
 ## How it works
 
