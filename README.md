@@ -6,16 +6,16 @@ It also has HD texture packs.
 
 ## Games
 
-- [Stella Glow (USA)](games/stella-glow-usa/): removes the ghostly glow around characters at high resolution
+- [Stella Glow (USA)](games/stella-glow-usa/): removes the doubling effect around characters at internal resolutions above 1x
 
 ## Texture packs
 
 - [Stella Glow HD](docs/stella-glow-hd.md): every texture 4x, with the UI, logos and text redrawn by hand
-- [Kid Icarus: Uprising HD](docs/kid-icarus-uprising-hd.md): the weapons so far, 4x, done piece by piece
+- [Kid Icarus: Uprising HD](docs/kid-icarus-uprising-hd.md): the weapon textures and their effects, 4x
 
 ## Angel's Aim
 
-[Angel's Aim](docs/angels-aim.md) is a light-gun-style aiming mode for Kid Icarus: Uprising in [Azahar for Frame](https://github.com/simplysanatori/AzaharFrame), on the Steam Frame.
+[Angel's Aim](docs/angels-aim.md) is a light-gun-style aiming mod for Kid Icarus: Uprising in [Azahar for Frame](https://github.com/simplysanatori/AzaharFrame), on Valve's Steam Frame.
 
 ## How it works
 
