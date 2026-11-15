@@ -3289,6 +3289,52 @@
       "homepage": "https://gamebanana.com/mods/480972",
       "notes": "Small HD replacements in separate folders, so you can turn the parts on and off.",
       "verified": false
+    },
+    {
+      "id": "stella-glow-hd-4x",
+      "name": "Stella Glow HD",
+      "title": "Stella Glow",
+      "title_ids": [
+        "0004000000173700"
+      ],
+      "author": "simplysanatori",
+      "author_url": "https://github.com/simplysanatori",
+      "updated": "2026-11",
+      "source": {
+        "type": "gdrive",
+        "file_id": "1XSi6l-QUmFrzYL4flQe6wZu1NGR859w_"
+      },
+      "size": 5003167526,
+      "sha256": "6105f4517bc5e4a8cb3e97c14654cd2bd0e8ec6abe1e93a4728b23bd8312576f",
+      "format": "zip",
+      "layout": "single",
+      "folder": "Stella Glow HD",
+      "licence": "Free for emulators; credit the author",
+      "notes": "Every texture upscaled 4x with AI, with the UI text, logos and turn-order portraits redrawn by hand. Version 0.9.0. It is large, about 4.7 GB, so on the Frame it streams in instead of preloading. Made on the USA version.",
+      "verified": true
+    },
+    {
+      "id": "kiu-weapons-hd-4x",
+      "name": "Kid Icarus Uprising Weapons HD",
+      "title": "Kid Icarus: Uprising",
+      "title_ids": [
+        "0004000000030200"
+      ],
+      "author": "simplysanatori",
+      "author_url": "https://github.com/simplysanatori",
+      "updated": "2026-11",
+      "source": {
+        "type": "gdrive",
+        "file_id": "1VJmYZdP38-lo_e6wGDj_XfCVIuQD6wLg"
+      },
+      "size": 84613857,
+      "sha256": "290cb743f7c3e969b180911cadc209af026d4e821032665fbc813d50ef48bc4c",
+      "format": "zip",
+      "layout": "single",
+      "folder": "Kid Icarus Uprising Weapons HD",
+      "licence": "Free for emulators; credit the author",
+      "notes": "The weapon textures upscaled 4x: decompressed with DXTDecompressor, then upscaled with the 4x-UltraSharp model by Kim2091. Version 0.1.0, an early release. Made on the USA version.",
+      "verified": true
     }
   ]
 }
