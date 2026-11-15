@@ -3334,7 +3334,8 @@
       "folder": "Kid Icarus Uprising Weapons HD",
       "licence": "Free for emulators; credit the author",
       "notes": "The weapon textures upscaled 4x: decompressed with DXTDecompressor, then upscaled with the 4x-UltraSharp model by Kim2091. Version 0.1.0, an early release. Made on the USA version.",
-      "verified": true
+      "verified": true,
+      "recommended": true
     }
   ]
 }
