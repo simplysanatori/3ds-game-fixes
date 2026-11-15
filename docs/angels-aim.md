@@ -20,14 +20,14 @@ Alpha Pre-Release · Very Experimental · Have Fun!
 - The weapon models are built on your Frame, from your own copy of the game. Nothing from the game is hosted or shipped.
 - They're made in the background while you play, then kept.
 - It runs only while Kid Icarus: Uprising is open.
-- It's a first step toward a full Kid Icarus: Uprising decompilation.
+- It's a first step toward a full Kid Icarus: Uprising recompilation.
 
 ## Requirements
 
 - Azahar for Frame 1.2.0 or later
 - Your own copy of Kid Icarus: Uprising (tested on the USA version)
 - Darkshade's C-Stick & Gyro patch (v172), installed from the app
-- Recommended: the Kid Icarus Uprising Weapons HD texture pack
+- Recommended: the [Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md) texture pack
 
 ## Set up
 
@@ -38,26 +38,36 @@ Alpha Pre-Release · Very Experimental · Have Fun!
 
 **Aiming** starts on **Direct Aim** once the patch is installed. **Aiming Settings** in the same segment opens the rest.
 
+![Aiming on Direct Aim, with Recoil and Weapon in Hand](images/angels-aim/aiming.png)
+
+*Aiming, recoil strength and the weapon in your hand.*
+
 ## Settings people look for
 
 - **Grip Frees Aim**: hold the aiming controller's grip to point at the bottom screen or a menu.
 - **Turn Zone**, **Horizontal Turn Speed** and **Vertical Turn Speed**: where turning starts, and how fast.
 - **Weapon in Hand**: the weapon's size, opacity, muzzle flash and projectiles.
 
+![Muzzle flash and projectile settings](images/angels-aim/shots.png)
+
+*Muzzle flash and projectiles, with their size and speed.*
+
+![Direct Aim settings with the Laser Sight tooltip](images/angels-aim/direct-aim.png)
+
+*Direct Aim: laser sight, keeping the reticle on screen, and the Turn Zone.*
+
 Every setting: [Angel's Aim in the user guide](https://github.com/simplysanatori/AzaharFrame/blob/steam-frame/docs/USER_GUIDE.md#angels-aim-kid-icarus-uprising).
 
 ## Weapons HD texture pack
 
-Kid Icarus Uprising Weapons HD upscales the weapon and effect textures 4x. The weapon in your hand uses it too. Version 0.1.0, an early release, made on the USA version.
-
-To install it by hand, unzip [the pack](https://drive.google.com/file/d/1VJmYZdP38-lo_e6wGDj_XfCVIuQD6wLg/view) into the game's texture folder, with `pack.json` directly in it.
+[Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md) upscales the weapon textures 4x. The weapon in your hand uses it too.
 
 ## Roadmap
 
 - Planned: full immersion mode, a full 6DOF experience
 - Planned: weapons that move in your hand as they do in the game
 - Planned: Pit's arm on your other hand
-- Planned: a full Kid Icarus: Uprising decompilation
+- Planned: a full Kid Icarus: Uprising recompilation
 
 ## Troubleshooting
 
@@ -68,4 +78,4 @@ To install it by hand, unzip [the pack](https://drive.google.com/file/d/1VJmYZdP
 ## Credits
 
 - [Darkshade](https://gbatemp.net/threads/kid-icarus-uprising-c-stick-gyro-patch.685775/): the C-Stick & Gyro patch Angel's Aim is built on
-- [simplysanatori](https://github.com/simplysanatori): Kid Icarus Uprising Weapons HD, made with DXTDecompressor and the 4x-UltraSharp model by Kim2091
+- [simplysanatori](https://github.com/simplysanatori): [Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md), made with DXTDecompressor and the 4x-UltraSharp model by Kim2091

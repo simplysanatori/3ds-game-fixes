@@ -13,7 +13,9 @@ games/<game>-<region>/
   images/                       before/after screenshots
 docs/USER_GUIDE.md              install folders for every emulator, shared by all games
 docs/stella-glow-hd.md          page for the Stella Glow HD texture pack
-docs/angels-aim.md              page for Angel's Aim (Azahar for Frame) and the Kid Icarus weapons pack
+docs/kid-icarus-uprising-hd.md  page for the Kid Icarus: Uprising HD texture pack
+docs/angels-aim.md              page for Angel's Aim (Azahar for Frame)
+docs/images/<page>/             screenshots for the docs pages
 ```
 
 - Folder names are lowercase, with the region last: `stella-glow-usa`, `dragon-quest-xi-usa`.
