@@ -111,7 +111,8 @@
       "licence": "Not stated; free for emulators, credit the author",
       "notes": "Textures only; the pack's ReShade files are not used. Version 5.0a. Size not confirmed (Google Drive was over its download limit when checked).",
       "updated": "2026-09-04",
-      "verified": true
+      "verified": true,
+      "recommended": true
     },
     {
       "id": "oot3d-1080p-henriko",
@@ -143,7 +144,8 @@
       "licence": "Not stated; free for emulators, credit the author",
       "notes": "Textures only; the pack's ReShade files are not used. Version 5.0a, for 1080p screens.",
       "updated": "2026-09-04",
-      "verified": true
+      "verified": true,
+      "recommended": true
     },
     {
       "id": "mm3d-4k-henriko",
