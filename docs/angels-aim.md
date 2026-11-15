@@ -1,6 +1,6 @@
 # Angel's Aim
 
-A direct-aim, light-gun-style mode for Kid Icarus: Uprising in [Azahar for Frame](https://github.com/simplysanatori/AzaharFrame), on the Steam Frame.
+A direct-aim, light-gun-style mode for Kid Icarus: Uprising in [Azahar for Frame](https://github.com/simplysanatori/AzaharFrame), on Valve's Steam Frame.
 
 Alpha Pre-Release · Very Experimental · Have Fun!
 
@@ -8,26 +8,26 @@ Alpha Pre-Release · Very Experimental · Have Fun!
 
 ## Features
 
-- Point your controller: the reticle goes exactly where you point on the screen
+- **Direct Aim** (light gun mode): the reticle goes exactly where you point on the screen, at any screen size
 - Point near or past the screen's edge to turn the camera (Turn Zone)
-- 3D models of all 108 of the game's weapons: Pit's equipped one is in your hand
-- Shots, muzzle flash and laser sight leave the weapon's muzzle
-- A short buzz on each real shot
-- **Gyro Aim** instead, if you'd rather turn your hand
+- 3D models of all 108 of the game's weapons are rendered as controller meshes you use while playing: Pit's equipped one is in your hand
+- The models update live from the game's memory and are pulled directly from your own game files. Nothing is shipped.
+- Shots, muzzle flashes and the laser sight leave your weapon's muzzle
+- Haptic feedback on every shot
+- Also supports **Gyro Aim**
 
 ## How it works
 
-- The weapon models are built on your Frame, from your own copy of the game. Nothing from the game is hosted or shipped.
-- They're made in the background while you play, then kept.
-- It runs only while Kid Icarus: Uprising is open.
-- It's a first step toward a full Kid Icarus: Uprising recompilation.
+- The weapon models are built on your Frame from your own copy of Kid Icarus: Uprising.
+  - Nothing from Kid Icarus: Uprising is hosted or shipped.
+- It's the first step toward a full 6DOF Kid Icarus: Uprising VR mod.
 
 ## Requirements
 
-- Azahar for Frame 1.2.0 or later
+- [Azahar for Frame](https://github.com/simplysanatori/AzaharFrame) 1.2.0 or later
 - Your own copy of Kid Icarus: Uprising (tested on the USA version)
 - Darkshade's C-Stick & Gyro patch (v172), installed from the app
-- Recommended: the [Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md) texture pack
+- Recommended: my [Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md) weapons texture pack
 
 ## Set up
 
@@ -40,8 +40,6 @@ Alpha Pre-Release · Very Experimental · Have Fun!
 
 ![Aiming on Direct Aim, with Recoil and Weapon in Hand](images/angels-aim/aiming.png)
 
-*Aiming, recoil strength and the weapon in your hand.*
-
 ## Settings people look for
 
 - **Grip Frees Aim**: hold the aiming controller's grip to point at the bottom screen or a menu.
@@ -50,11 +48,7 @@ Alpha Pre-Release · Very Experimental · Have Fun!
 
 ![Muzzle flash and projectile settings](images/angels-aim/shots.png)
 
-*Muzzle flash and projectiles, with their size and speed.*
-
 ![Direct Aim settings with the Laser Sight tooltip](images/angels-aim/direct-aim.png)
-
-*Direct Aim: laser sight, keeping the reticle on screen, and the Turn Zone.*
 
 Every setting: [Angel's Aim in the user guide](https://github.com/simplysanatori/AzaharFrame/blob/steam-frame/docs/USER_GUIDE.md#angels-aim-kid-icarus-uprising).
 
@@ -86,10 +80,9 @@ These are the settings I play with. Kid Icarus: Uprising starts on them, and any
 
 ## Roadmap
 
-- Planned: full immersion mode, a full 6DOF experience
-- Planned: weapons that move in your hand as they do in the game
-- Planned: Pit's arm on your other hand
-- Planned: a full Kid Icarus: Uprising recompilation
+- Planned: full immersion mode, a full 6DOF VR mod
+- Planned: weapons that move in your hand as they do in the game, with additional effects per weapon
+- Planned: your non-weapon arm: fully hand-tracked, with an upscaled and improved mesh of Pit's arm
 
 ## Troubleshooting
 
