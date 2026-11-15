@@ -58,6 +58,28 @@ Alpha Pre-Release · Very Experimental · Have Fun!
 
 Every setting: [Angel's Aim in the user guide](https://github.com/simplysanatori/AzaharFrame/blob/steam-frame/docs/USER_GUIDE.md#angels-aim-kid-icarus-uprising).
 
+## Recommended settings
+
+These are the settings I play with. Kid Icarus: Uprising starts on them, and anything you change stays.
+
+| Setting | Value |
+|---|---|
+| Immersive Mode | Off |
+| Aiming | Direct Aim |
+| Bottom Screen Reticle | Off |
+| Turn Zone From | Aim Box |
+| Turn Zone | 30% |
+| Horizontal Turn Speed | 1.8x |
+| Vertical Turn Speed | 1.0x |
+| Laser Sight | Off |
+| Weapon Scale | 70% |
+| Muzzle Flash Size | 230% |
+| Projectiles | On: opacity 40%, size 170%, speed 180% |
+| Show Controllers | On |
+| Internal Resolution | 4x |
+| 3D Depth | 100% |
+| Black Frame Insertion (Experimental) | On, with Match Bottom Screen Brightness |
+
 ## Weapons HD texture pack
 
 [Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md) upscales the weapon textures 4x. The weapon in your hand uses it too.
