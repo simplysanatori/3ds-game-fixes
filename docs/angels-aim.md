@@ -54,7 +54,7 @@ Every setting: [Angel's Aim in the user guide](https://github.com/simplysanatori
 
 ## Recommended settings
 
-These are the settings I play with. Kid Icarus: Uprising starts on them, and anything you change stays.
+These are the settings I found most comfortable. Kid Icarus: Uprising starts on them.
 
 | Setting | Value |
 |---|---|
