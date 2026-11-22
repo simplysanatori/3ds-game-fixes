@@ -3350,20 +3350,20 @@
       "title_ids": [
         "0004000000030200"
       ],
-      "author": "simplysanatori",
+      "author": "simplysanatori, Darkshade",
       "author_url": "https://github.com/simplysanatori",
       "updated": "2026-11-22",
       "source": {
         "type": "gdrive",
-        "file_id": "1JGZQj4E8TLua3P0SSUyqQ2YWr6AEYEhA"
+        "file_id": "1KlHufb4RJSWgeUVEaG9L1dxX7Qjga7pI"
       },
-      "size": 2921926421,
-      "sha256": "6423596f25e07a33f146f1b507588261d90cae8f3284dc0060bea91abfe091a6",
+      "size": 2921801161,
+      "sha256": "8f1779e727df04b8bc4dc0c1c398fc794d26b547aa739e624cf5b302096e0008",
       "format": "zip",
       "layout": "single",
       "folder": "Kid Icarus Uprising Weapons HD",
       "licence": "Free for emulators; credit the author",
-      "notes": "The whole game's textures upscaled 4x: decompressed with DXTDecompressor, then upscaled with the 4x-AnimeSharp model by Kim2091; stages and weapons with the 4x-UltraSharp model by Kim2091. Boss name cards and other text redrawn in Barlow Condensed and C059. Version 1.3.0. Made on the USA version.",
+      "notes": "The whole game's textures upscaled 4x: decompressed with DXTDecompressor, then upscaled with the 4x-AnimeSharp model by Kim2091; stages and weapons with the 4x-UltraSharp model by Kim2091. Boss name cards and other text redrawn in Barlow Condensed and C059. Food pictures replaced with the official item renders. Version 1.3.1. Made on the USA version. Contributors: Darkshade.",
       "verified": true,
       "recommended": true
     }
