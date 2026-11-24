@@ -3348,6 +3348,7 @@
       "name": "Kid Icarus: Uprising HD",
       "title": "Kid Icarus: Uprising",
       "title_ids": [
+        "0004000000030100",
         "0004000000030200"
       ],
       "author": "simplysanatori, Darkshade",
@@ -3363,7 +3364,7 @@
       "layout": "single",
       "folder": "Kid Icarus Uprising Weapons HD",
       "licence": "Free for emulators; credit the author",
-      "notes": "The whole game's textures upscaled 4x: decompressed with DXTDecompressor, then upscaled with the 4x-AnimeSharp model by Kim2091; stages and weapons with the 4x-UltraSharp model by Kim2091. Boss name cards and other text redrawn in Barlow Condensed and C059. Food pictures and 20 gallery pictures replaced with official artwork. Version 1.3.2. Made on the USA version. Contributors: Darkshade.",
+      "notes": "The whole game's textures upscaled 4x: decompressed with DXTDecompressor, then upscaled with the 4x-AnimeSharp model by Kim2091; stages and weapons with the 4x-UltraSharp model by Kim2091. Boss name cards and other text redrawn in Barlow Condensed and C059. Food pictures and 20 gallery pictures replaced with official artwork. Version 1.3.2. Made on the European version; works on the USA version too, where 20 text pictures stay original. Contributors: Darkshade.",
       "verified": true,
       "recommended": true
     }
