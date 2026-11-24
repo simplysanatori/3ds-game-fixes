@@ -11,7 +11,7 @@ It also has HD texture packs.
 ## Texture packs
 
 - [Stella Glow HD](docs/stella-glow-hd.md): every texture 4x, with the UI, logos and text redrawn by hand
-- [Kid Icarus: Uprising HD](docs/kid-icarus-uprising-hd.md): the weapon textures and their effects, 4x
+- [Kid Icarus: Uprising HD](docs/kid-icarus-uprising-hd.md): the whole game's textures 4x, with text redrawn and official artwork
 
 ## Angel's Aim
 

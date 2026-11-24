@@ -27,14 +27,14 @@ Alpha Pre-Release · Very Experimental · Have Fun!
 - [Azahar for Frame](https://github.com/simplysanatori/AzaharFrame) 1.2.0 or later
 - Your own copy of Kid Icarus: Uprising (tested on the USA version)
 - Darkshade's C-Stick & Gyro patch (v172), installed from the app
-- Recommended: my [Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md) weapons texture pack
+- Recommended: my [Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md) texture pack
 
 ## Set up
 
 1. Start the game and open the in-game menu.
 2. Go to **Mods**, then **Angel's Aim**.
 3. Under **Required**, install **C-Stick & Gyro**, or its 16:9 or 21:9 version. Then start the game again.
-4. Get **Kid Icarus Uprising Weapons HD** from **Textures**, **Download Packs**, and turn it on.
+4. Get **Kid Icarus: Uprising HD** from **Textures**, **Download Packs**, and turn it on.
 
 **Aiming** starts on **Direct Aim** once the patch is installed. **Aiming Settings** in the same segment opens the rest.
 
@@ -74,9 +74,9 @@ These are the settings I found most comfortable. Kid Icarus: Uprising starts on 
 | 3D Depth | 100% |
 | Black Frame Insertion (Experimental) | On, with Match Bottom Screen Brightness |
 
-## Weapons HD texture pack
+## HD texture pack
 
-[Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md) upscales the weapon textures 4x. The weapon in your hand uses it too.
+[Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md) upscales the whole game's textures 4x. The weapon in your hand uses it too.
 
 ## Roadmap
 
@@ -93,4 +93,4 @@ These are the settings I found most comfortable. Kid Icarus: Uprising starts on 
 ## Credits
 
 - [Darkshade](https://gbatemp.net/threads/kid-icarus-uprising-c-stick-gyro-patch.685775/): the C-Stick & Gyro patch Angel's Aim is built on
-- [simplysanatori](https://github.com/simplysanatori): [Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md), made with DXTDecompressor and the 4x-UltraSharp model by Kim2091
+- [simplysanatori](https://github.com/simplysanatori): [Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md), made with DXTDecompressor and the 4x-UltraSharp and 4x-AnimeSharp models by Kim2091
