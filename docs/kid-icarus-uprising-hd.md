@@ -24,6 +24,7 @@ With [Angel's Aim](angels-aim.md), the weapon in your hand uses the pack too.
 ## Credits
 
 - [simplysanatori](https://github.com/simplysanatori): the pack
+- Darkshade: contributor
 - DXTDecompressor, and the 4x-UltraSharp model by Kim2091: used to make it
 
 ## Licence
