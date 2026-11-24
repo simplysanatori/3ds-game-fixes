@@ -1,6 +1,8 @@
 # Angel's Aim
 
-A direct-aim, light-gun-style mode for Kid Icarus: Uprising in [Azahar for Frame](https://github.com/simplysanatori/AzaharFrame), on Valve's Steam Frame.
+Kid Icarus: Uprising in first-person VR, on the Steam Frame and on PC VR.
+
+Made for [Azahar VR](https://github.com/simplysanatori/AzaharVR) (Azahar for Frame on the Steam Frame).
 
 Alpha Pre-Release · Very Experimental · Have Fun!
 
@@ -8,89 +10,81 @@ Alpha Pre-Release · Very Experimental · Have Fun!
 
 ## Features
 
-- **Direct Aim** (light gun mode): the reticle goes exactly where you point on the screen, at any screen size
-- Point near or past the screen's edge to turn the camera (Turn Zone)
-- 3D models of all 108 of the game's weapons are rendered as controller meshes you use while playing: Pit's equipped one is in your hand
-- The models update live from the game's memory and are pulled directly from your own game files. Nothing is shipped.
-- Shots, muzzle flashes and the laser sight leave your weapon's muzzle
-- Haptic feedback on every shot
-- Also supports **Gyro Aim**
+- See through Pit's eyes, on land and in the air, with full 6DoF
+- Aim by hand: shots leave your weapon and go where it points
+- All 108 weapons as 3D models in your hand, with muzzle flash and projectiles
+- Pit's arm on your free hand
+- Health bar, score and subtitles inside your view, each movable
+- Bottom Screen in view or on your wrist
+- Single-screen modes too: **Direct Aim** and **Gyro Aim**
 
 ## How it works
 
-- The weapon models are built on your Frame from your own copy of Kid Icarus: Uprising.
-  - Nothing from Kid Icarus: Uprising is hosted or shipped.
-- It's the first step toward a full 6DOF Kid Icarus: Uprising VR mod.
+- The game runs in Azahar. Its own camera and aim follow your head and hand.
+- Weapon models are built on your device, from your own copy of the game.
+- Nothing from Kid Icarus: Uprising is hosted or shipped.
 
 ## Requirements
 
-- [Azahar for Frame](https://github.com/simplysanatori/AzaharFrame) 1.2.0 or later
-- Your own copy of Kid Icarus: Uprising (tested on the USA version)
-- Darkshade's C-Stick & Gyro patch (v172), installed from the app
-- Recommended: my [Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md) texture pack
+- [Azahar VR](https://github.com/simplysanatori/AzaharVR/releases) 1.4.0 or later (not out yet)
+- Your own copy of Kid Icarus: Uprising: European (Rev 0) or USA (Rev 1)
+- For the single-screen modes only: Darkshade's C-Stick & Gyro patch, installed from the app
+- Recommended: the [Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md) texture pack
 
-## Set up
+## First run
 
-1. Start the game and open the in-game menu.
-2. Go to **Mods**, then **Angel's Aim**.
-3. Under **Required**, install **C-Stick & Gyro**, or its 16:9 or 21:9 version. Then start the game again.
-4. Get **Kid Icarus: Uprising HD** from **Textures**, **Download Packs**, and turn it on.
+1. Start the game. The European version starts in Angel's Aim.
+2. USA version: open the in-game menu and go to **Settings**. Set **Immersive Mode** to **Full (6DoF): Kid Icarus: Uprising / Angel's Aim**.
+3. To change options, open **Mods** > **Angel's Aim** while the game runs.
 
-**Aiming** starts on **Direct Aim** once the patch is installed. **Aiming Settings** in the same segment opens the rest.
+Want the single-screen modes? Set **Immersive Mode** to **Off**. Then install **C-Stick & Gyro** under **Mods** > **Angel's Aim** and restart the game.
 
-![Aiming on Direct Aim, with Recoil and Weapon in Hand](images/angels-aim/aiming.png)
+## Controls
 
-## Settings people look for
+With **Trigger Layout** on **Fire and Power**:
 
-- **Grip Frees Aim**: hold the aiming controller's grip to point at the bottom screen or a menu.
-- **Turn Zone**, **Horizontal Turn Speed** and **Vertical Turn Speed**: where turning starts, and how fast.
-- **Weapon in Hand**: the weapon's size, opacity, muzzle flash and projectiles.
-
-![Muzzle flash and projectile settings](images/angels-aim/shots.png)
-
-![Direct Aim settings with the Laser Sight tooltip](images/angels-aim/direct-aim.png)
-
-Every setting: [Angel's Aim in the user guide](https://github.com/simplysanatori/AzaharFrame/blob/steam-frame/docs/USER_GUIDE.md#angels-aim-kid-icarus-uprising).
-
-## Recommended settings
-
-These are the settings I found most comfortable. Kid Icarus: Uprising starts on them.
-
-| Setting | Value |
+| Do this | With |
 |---|---|
-| Immersive Mode | Off |
-| Aiming | Direct Aim |
-| Bottom Screen Reticle | Off |
-| Turn Zone From | Aim Box |
-| Turn Zone | 30% |
-| Horizontal Turn Speed | 1.8x |
-| Vertical Turn Speed | 1.0x |
-| Laser Sight | Off |
-| Weapon Scale | 70% |
-| Muzzle Flash Size | 230% |
-| Projectiles | On: opacity 40%, size 170%, speed 180% |
-| Show Controllers | On |
-| Internal Resolution | 4x |
-| 3D Depth | 100% |
-| Black Frame Insertion (Experimental) | On, with Match Bottom Screen Brightness |
+| Aim | Point your aiming hand |
+| Fire | Aiming hand's trigger |
+| Use your power | Other trigger |
+| Pick a power | Bumpers |
+| Turn | Right stick |
+| Move the Bottom Screen (**Persistent**) | Grab it with a grip |
+| See the Bottom Screen (**Wrist**) | Turn your free wrist up |
 
-## HD texture pack
+**Original** keeps the game's own buttons on both triggers.
 
-[Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md) upscales the whole game's textures 4x. The weapon in your hand uses it too.
+## Options people look for
 
-## Roadmap
+- **Camera**: **First Person** or **Over the Shoulder**, with **Pit Opacity**.
+- **Turning**: **Smooth**, or steps of 30° to 90°.
+- **Cutscenes**: play on the Primary Screen, then your view comes back.
+- **HUD**: **In View** brings the health bar, score and subtitles in. Each has a size or place of its own.
+- **Bottom Screen**: **Off**, **Persistent** or **Wrist**, with size and opacity.
+- **Pit's Arm**: your free hand is Pit's arm. **Install from Zip** uses a hand model you already have.
+- **Weapon in Hand**: size, opacity, muzzle flash and projectiles.
 
-- Planned: full immersion mode, a full 6DOF VR mod
-- Planned: weapons that move in your hand as they do in the game, with additional effects per weapon
-- Planned: your non-weapon arm: fully hand-tracked, with an upscaled and improved mesh of Pit's arm
+Every option can be set per game. The full list is in the [user guide](https://github.com/simplysanatori/AzaharVR/blob/steam-frame/docs/USER_GUIDE.md#angels-aim-kid-icarus-uprising).
 
 ## Troubleshooting
 
-- **The reticle doesn't follow your controller.** Check the patch shows **Installed**, then start the game again.
-- **Direct Aim does nothing in Immersive Mode.** Set **Immersive Mode** to **Off** for this game.
-- **Something's wrong, or you have an idea.** Use **Report an Issue** or **Send Report** in the **Angel's Aim** segment.
+- **No first person.** Check your game's version, and that **Immersive Mode** is on Angel's Aim.
+- **"C-Stick Mod Loaded" message.** Restart the game. The patch is left out of that run.
+- **The reticle doesn't follow your hand in a single-screen mode.** Check the patch shows **Installed**, then restart the game.
+- **A save state brings the patch back.** It was made with the patch loaded. Load your save in the game instead.
+
+## Roadmap
+
+- Planned: melee by swinging your weapon
+- Planned: weapons that move in your hand as they do in the game, with more effects per weapon
+
+## Reporting a problem
+
+Use **Report an Issue** or **Send Report** under **Mods** > **Angel's Aim**. Check the report before you share it.
 
 ## Credits
 
-- [Darkshade](https://gbatemp.net/threads/kid-icarus-uprising-c-stick-gyro-patch.685775/): the C-Stick & Gyro patch Angel's Aim is built on
-- [simplysanatori](https://github.com/simplysanatori): [Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md), made with DXTDecompressor and the 4x-UltraSharp and 4x-AnimeSharp models by Kim2091
+- [Darkshade](https://gbatemp.net/threads/kid-icarus-uprising-c-stick-gyro-patch.685775/): the C-Stick & Gyro patch Angel's Aim began with
+- [Azahar](https://github.com/azahar-emu/azahar) and CitraVR: the emulator and its first VR modes
+- [simplysanatori](https://github.com/simplysanatori): Angel's Aim and [Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md)
