@@ -26,6 +26,7 @@ Alpha Pre-Release · Very Experimental · Have Fun!
 - Bottom Screen placement: Wrist or In View
 - Power Menu (off by default)
 - Character Portraits (off by default)
+- 60 FPS (Experimental, off by default)
 
 ![What's where](images/angels-aim/hud.jpg)
 
@@ -71,7 +72,7 @@ In **Mods** > **Angel's Aim**, with the game running:
 | | |
 |---|---|
 | **Aiming** | Aiming, Trigger Layout, Reticle Size, Laser Sight |
-| **View** | Camera, Pit Opacity, Turning, Cutscenes, R3 |
+| **View** | Camera, Pit Opacity, Turning, Cutscenes, R3, 60 FPS |
 | **HUD** | Size, place, Subtitle Size, Power Menu |
 | **Bottom Screen** | In View, Wrist, Wrist Angle, Arm Position, Character Portraits |
 | **Weapon** | Size, opacity, effects, Recoil, Free Hand |
@@ -88,7 +89,6 @@ All options: [user guide](https://github.com/simplysanatori/AzaharVR/blob/steam-
 
 ## Planned
 
-- 60 FPS option
 - Melee by swinging
 - Weapons that move as in the game
 
