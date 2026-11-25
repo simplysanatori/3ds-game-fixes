@@ -13,7 +13,6 @@ Alpha Pre-Release · Very Experimental · Have Fun!
 - See through Pit's eyes, on land and in the air, with full 6DoF
 - Aim by hand: shots leave your weapon and go where it points
 - All 108 weapons as 3D models in your hand, with muzzle flash and projectiles
-- Pit's arm on your free hand
 - Health bar, score and subtitles inside your view, each movable
 - Bottom Screen in view or on your wrist
 - Single-screen modes too: **Direct Aim** and **Gyro Aim**
@@ -62,7 +61,6 @@ With **Trigger Layout** on **Fire and Power**:
 - **Cutscenes**: play on the Primary Screen, then your view comes back.
 - **HUD**: **In View** brings the health bar, score and subtitles in. Each has a size or place of its own.
 - **Bottom Screen**: **Off**, **Persistent** or **Wrist**, with size and opacity.
-- **Pit's Arm**: your free hand is Pit's arm. **Install from Zip** uses a hand model you already have.
 - **Weapon in Hand**: size, opacity, muzzle flash and projectiles.
 
 Every option can be set per game. The full list is in the [user guide](https://github.com/simplysanatori/AzaharVR/blob/steam-frame/docs/USER_GUIDE.md#angels-aim-kid-icarus-uprising).
