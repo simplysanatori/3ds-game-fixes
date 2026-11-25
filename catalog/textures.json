@@ -3357,18 +3357,18 @@
       ],
       "author": "simplysanatori, Darkshade",
       "author_url": "https://github.com/simplysanatori",
-      "updated": "2026-11-24",
+      "updated": "2026-11-25",
       "source": {
         "type": "gdrive",
-        "file_id": "12hMfE0ApgZx3ja9oJ_X3WiUFwW34KgYM"
+        "file_id": "1MXvVcxroJM_p4XEDFPs5L7Dy_VUI1jhN"
       },
-      "size": 2902679426,
-      "sha256": "c20e094210b404cdad7f511229accbeea1405da254f7d9e01362fc4b7b8c213d",
+      "size": 2901358456,
+      "sha256": "173e157d39420a8037ea8946e38c567e202d718ad64980e732e7ccae7eb42ca9",
       "format": "zip",
       "layout": "single",
       "folder": "Kid Icarus Uprising Weapons HD",
       "licence": "Free for emulators; credit the author",
-      "notes": "The whole game's textures upscaled 4x: decompressed with DXTDecompressor, then upscaled with the 4x-AnimeSharp model by Kim2091; stages and weapons with the 4x-UltraSharp model by Kim2091. Boss name cards and other text redrawn in Barlow Condensed and C059. Food, item and gallery pictures replaced with official artwork, most of them in the game's own colours. Stage grain removed, clouds and skies softened. Version 1.4.0. Made on the European version; works on the USA version too, where 20 text pictures stay original. Contributors: Darkshade.",
+      "notes": "The whole game's textures upscaled 4x: decompressed with DXTDecompressor, then upscaled with the 4x-AnimeSharp model by Kim2091; stages and weapons with the 4x-UltraSharp model by Kim2091. Boss name cards and other text redrawn in Barlow Condensed and C059. Food, item and gallery pictures replaced with official artwork, most of them in the game's own colours. Stage grain removed, clouds and skies softened. Characters' eyes in the game's own colours. Version 1.4.1. Made on the European version; works on the USA version too, where 20 text pictures stay original. Contributors: Darkshade.",
       "verified": true,
       "recommended": true
     }
