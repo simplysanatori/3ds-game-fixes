@@ -1,88 +1,101 @@
 # Angel's Aim
 
-Kid Icarus: Uprising in first-person VR, on the Steam Frame and on PC VR.
-
-Made for [Azahar VR](https://github.com/simplysanatori/AzaharVR) (Azahar for Frame on the Steam Frame).
+**Kid Icarus: Uprising in first-person 6DoF.** A mod for [Azahar VR](https://github.com/simplysanatori/AzaharVR), on the Steam Frame and PC VR.
 
 Alpha Pre-Release · Very Experimental · Have Fun!
 
 **None of this would have been possible without Darkshade's [Kid Icarus: Uprising C-Stick & Gyro patch](https://gbatemp.net/threads/kid-icarus-uprising-c-stick-gyro-patch.685775/). Thank you, Darkshade.**
 
+> Recommended texture pack: **[Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md)**. The whole game's textures at 4x.
+
+![Flying over the town](images/angels-aim/first-person.jpg)
+
+## Two ways to play
+
+- **Immersive:** first-person 6DoF
+- **Widescreen:** Darkshade's C-Stick & Gyro mod in 16:9, with Direct Aim or Gyro Aim
+
 ## Features
 
-- See through Pit's eyes, on land and in the air, with full 6DoF
-- Aim by hand: shots leave your weapon and go where it points
-- All 108 weapons as 3D models in your hand, with muzzle flash and projectiles
-- Health bar, score and subtitles inside your view, each movable
-- Bottom Screen in view or on your wrist
-- Single-screen modes too: **Direct Aim** and **Gyro Aim**
+- 6DoF head and aim, on land and in the air
+- First Person and Third Person
+- 108 weapon mesh models
+- Muzzle flash, projectiles, haptic feedback
+- Health bar, score and subtitles in view
+- Cutscenes and the goddess's room in VR
+- Bottom Screen placement: Wrist or In View
+- Power Menu (off by default)
+- Character Portraits (off by default)
 
-## How it works
-
-- The game runs in Azahar. Its own camera and aim follow your head and hand.
-- Weapon models are built on your device, from your own copy of the game.
-- Nothing from Kid Icarus: Uprising is hosted or shipped.
+![What's where](images/angels-aim/hud.jpg)
 
 ## Requirements
 
 - [Azahar VR](https://github.com/simplysanatori/AzaharVR/releases) 1.4.0 or later (not out yet)
-- Your own copy of Kid Icarus: Uprising: European (Rev 0) or USA (Rev 1)
-- For the single-screen modes only: Darkshade's C-Stick & Gyro patch, installed from the app
-- Recommended: the [Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md) texture pack
+- Your own copy of the game: European (Rev 0) or USA (Rev 1)
 
-## First run
+Nothing from the game is hosted or shipped.
 
-1. Start the game. The European version starts in Angel's Aim.
-2. USA version: open the in-game menu and go to **Settings**. Set **Immersive Mode** to **Full (6DoF): Kid Icarus: Uprising / Angel's Aim**.
-3. To change options, open **Mods** > **Angel's Aim** while the game runs.
+## Start
 
-Want the single-screen modes? Set **Immersive Mode** to **Off**. Then install **C-Stick & Gyro** under **Mods** > **Angel's Aim** and restart the game.
+**Immersive**
+
+- European version: start the game.
+- USA version: set **Mods** > **Angel's Aim** > **Immersive Mode** to **Full (6DoF): Kid Icarus: Uprising / Angel's Aim**.
+
+**Widescreen**
+
+1. Set **Immersive Mode** to **Off**.
+2. Install **Widescreen 16:9** under **Mods** > **Angel's Aim** > **Mods & Pack**.
+3. Restart the game.
 
 ## Controls
 
-With **Trigger Layout** on **Fire and Power**:
+**Trigger Layout** on **Fire and Power**:
 
-| Do this | With |
+| | |
 |---|---|
-| Aim | Point your aiming hand |
 | Fire | Aiming hand's trigger |
-| Use your power | Other trigger |
+| Power, special attack | Other trigger |
 | Pick a power | Bumpers |
-| Turn | Right stick |
-| Move the Bottom Screen (**Persistent**) | Grab it with a grip |
-| See the Bottom Screen (**Wrist**) | Turn your free wrist up |
+| Turn (land) | Right stick |
+| First Person / Third Person (battles) | R3 |
+| Reset Screens and View | Hold R3 |
 
-**Original** keeps the game's own buttons on both triggers.
+## Options
 
-## Options people look for
+In **Mods** > **Angel's Aim**, with the game running:
 
-- **Camera**: **First Person** or **Over the Shoulder**, with **Pit Opacity**.
-- **Turning**: **Smooth**, or steps of 30° to 90°.
-- **Cutscenes**: play on the Primary Screen, then your view comes back.
-- **HUD**: **In View** brings the health bar, score and subtitles in. Each has a size or place of its own.
-- **Bottom Screen**: **Off**, **Persistent** or **Wrist**, with size and opacity.
-- **Weapon in Hand**: size, opacity, muzzle flash and projectiles.
+![Angel's Aim in Mods](images/angels-aim/menu.png)
 
-Every option can be set per game. The full list is in the [user guide](https://github.com/simplysanatori/AzaharVR/blob/steam-frame/docs/USER_GUIDE.md#angels-aim-kid-icarus-uprising).
+| | |
+|---|---|
+| **Aiming** | Aiming, Trigger Layout, Reticle Size, Laser Sight |
+| **View** | Camera, Pit Opacity, Turning, Cutscenes, R3 |
+| **HUD** | Size, place, Subtitle Size, Power Menu |
+| **Bottom Screen** | In View, Wrist, Wrist Angle, Arm Position, Character Portraits |
+| **Weapon** | Size, opacity, effects, Recoil, Free Hand |
+
+![Its pages, and Controls > Motion](images/angels-aim/menu-pages.jpg)
+
+All options: [user guide](https://github.com/simplysanatori/AzaharVR/blob/steam-frame/docs/USER_GUIDE.md#angels-aim-kid-icarus-uprising).
 
 ## Troubleshooting
 
-- **No first person.** Check your game's version, and that **Immersive Mode** is on Angel's Aim.
-- **"C-Stick Mod Loaded" message.** Restart the game. The patch is left out of that run.
-- **The reticle doesn't follow your hand in a single-screen mode.** Check the patch shows **Installed**, then restart the game.
-- **A save state brings the patch back.** It was made with the patch loaded. Load your save in the game instead.
+- **No first person:** check the game's version and **Immersive Mode**.
+- **"C-Stick Mod Loaded":** restart the game.
+- **Anything else:** **About Angel's Aim** > **Report an Issue** or **Send Report**.
 
-## Roadmap
+## Planned
 
-- Planned: melee by swinging your weapon
-- Planned: weapons that move in your hand as they do in the game, with more effects per weapon
+- 60 FPS option
+- Melee by swinging
+- Weapons that move as in the game
 
-## Reporting a problem
-
-Use **Report an Issue** or **Send Report** under **Mods** > **Angel's Aim**. Check the report before you share it.
+Angel's Aim is the mod for Azahar VR. The plan for later is a standalone, probably called Uprising VR.
 
 ## Credits
 
-- [Darkshade](https://gbatemp.net/threads/kid-icarus-uprising-c-stick-gyro-patch.685775/): the C-Stick & Gyro patch Angel's Aim began with
-- [Azahar](https://github.com/azahar-emu/azahar) and CitraVR: the emulator and its first VR modes
+- [Darkshade](https://gbatemp.net/threads/kid-icarus-uprising-c-stick-gyro-patch.685775/): the C-Stick & Gyro patch
+- [Azahar](https://github.com/azahar-emu/azahar) and CitraVR
 - [simplysanatori](https://github.com/simplysanatori): Angel's Aim and [Kid Icarus: Uprising HD](kid-icarus-uprising-hd.md)
