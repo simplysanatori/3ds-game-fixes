@@ -2,7 +2,7 @@
 
 An HD texture pack for Kid Icarus: Uprising. The whole game's textures at 4x.
 
-Version 1.4.1, by [simplysanatori](https://github.com/simplysanatori) and Darkshade.
+Version 1.4.2, by [simplysanatori](https://github.com/simplysanatori) and Darkshade.
 
 ![Off, on](images/kid-icarus-uprising-hd/town.jpg)
 
@@ -28,7 +28,7 @@ Not in it: Pit's body. HUD text is upscaled, not redrawn.
 
 **Azahar:**
 
-1. Get [the zip](https://drive.google.com/file/d/1MXvVcxroJM_p4XEDFPs5L7Dy_VUI1jhN/view).
+1. Get [the zip](https://drive.google.com/file/d/1KERAfxSCQF2bgF0iX5WJS9HM8LXIYO4P/view).
 2. Copy what's inside its folder into `load/textures/0004000000030200/` (European) or `load/textures/0004000000030100/` (USA).
 3. Turn on **Use custom textures**.
 
