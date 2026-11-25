@@ -31,7 +31,7 @@ Alpha Pre-Release · Very Experimental · Have Fun!
 
 ## Requirements
 
-- [Azahar VR](https://github.com/simplysanatori/AzaharVR/releases) 1.4.0 or later (not out yet)
+- [Azahar VR](https://github.com/simplysanatori/AzaharVR/releases) 1.4.0 or later
 - Your own copy of the game: European (Rev 0) or USA (Rev 1)
 
 Nothing from the game is hosted or shipped.

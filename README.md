@@ -15,7 +15,7 @@ It also has HD texture packs.
 
 ## Angel's Aim
 
-[Angel's Aim](docs/angels-aim.md) is a light-gun-style aiming mod for Kid Icarus: Uprising in [Azahar for Frame](https://github.com/simplysanatori/AzaharFrame), on Valve's Steam Frame.
+[Angel's Aim](docs/angels-aim.md) is a first-person 6DoF mod for Kid Icarus: Uprising in [Azahar VR](https://github.com/simplysanatori/AzaharVR), on the Steam Frame and PC VR.
 
 ## How it works
 
